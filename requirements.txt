@@ -1,4 +1,10 @@
+streamlit
 pandas
 numpy
 matplotlib
 statsmodels
+beautifulsoup4
+httpx
+lightgbm
+scikit-learn
+joblib
