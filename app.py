@@ -12,11 +12,14 @@ st.title("SmartBuy — Live Price Tracking & Prediction")
 
 # Function to handle live fetching
 def trigger_live_scrape():
-    st.info("Fetching real-time product prices... Please wait.")
+    st.info("Fetching real-time product prices for featured items... Please wait.")
     catalog_path = "data/target_3000_catalog.csv"
 
     if os.path.exists(catalog_path):
-        targets = pd.read_csv(catalog_path).to_dict(orient="records")
+        df = pd.read_csv(catalog_path)
+        # Limit to top 15 products for quick execution in the cloud
+        targets = df.head(15).to_dict(orient="records")
+
         # Run async scraper on demand
         asyncio.run(run_bulk_scraper(targets))
 
@@ -24,7 +27,7 @@ def trigger_live_scrape():
         os.system("python analysis.py")
         st.success("Live prices updated and predictions refreshed!")
     else:
-        st.error("Catalog file missing! Run build_3000_catalog.py first.")
+        st.error("Catalog file missing!")
 
 
 # Sidebar trigger button
