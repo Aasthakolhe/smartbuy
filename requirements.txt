@@ -8,3 +8,4 @@ httpx
 lightgbm
 scikit-learn
 joblib
+plotly
