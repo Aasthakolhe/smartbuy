@@ -1,0 +1,321 @@
+product_id,product,category,low_12m,high_12m,current_price,position_in_range,pct_above_12m_low,own_signal,category_outlook,best_wait_month,expected_saving_pct
+AC-001,Voltas 1.5 Ton 5 Star Inverter Split AC,AC,39000,56400,42900,0.22,10.0,YELLOW,GREEN,Feb,7.0
+AC-002,Voltas 1.5 Ton 3 Star Window AC,AC,26800,36100,29100,0.25,8.6,YELLOW,GREEN,Feb,7.0
+AC-003,Voltas 1 Ton 5 Star Inverter Split AC,AC,41800,56800,46500,0.31,11.2,YELLOW,GREEN,Feb,7.0
+AC-004,LG 1 Ton 3 Star Inverter Split AC,AC,26200,35300,27700,0.16,5.7,GREEN,GREEN,Feb,7.0
+AC-005,LG 1.5 Ton 5 Star Inverter Split AC,AC,41500,55200,43600,0.15,5.1,GREEN,GREEN,Feb,7.0
+AC-006,Daikin 1 Ton 3 Star Inverter Split AC,AC,28300,40200,32500,0.35,14.8,YELLOW,GREEN,Feb,7.0
+AC-007,Daikin 1.5 Ton 5 Star Inverter Split AC,AC,41500,52400,45500,0.37,9.6,YELLOW,GREEN,Feb,7.0
+AC-008,Daikin 1.5 Ton 3 Star Window AC,AC,25600,31300,27200,0.28,6.2,YELLOW,GREEN,Feb,7.0
+AC-009,Daikin 2 Ton 3 Star Inverter Split AC,AC,39300,51700,42800,0.28,8.9,YELLOW,GREEN,Feb,7.0
+AC-010,Samsung 1.5 Ton 3 Star Window AC,AC,23900,32100,26400,0.3,10.5,YELLOW,GREEN,Feb,7.0
+AC-011,Carrier 1 Ton 3 Star Inverter Split AC,AC,27200,36800,29700,0.26,9.2,YELLOW,GREEN,Feb,7.0
+AC-012,Carrier 1.5 Ton 3 Star Inverter Split AC,AC,36300,44400,38200,0.23,5.2,YELLOW,GREEN,Feb,7.0
+AC-013,Carrier 1.5 Ton 5 Star Inverter Split AC,AC,42400,54500,47200,0.4,11.3,YELLOW,GREEN,Feb,7.0
+AC-014,Carrier 1.5 Ton 3 Star Window AC,AC,33600,41700,35100,0.19,4.5,GREEN,GREEN,Feb,7.0
+AC-015,Carrier 2 Ton 3 Star Inverter Split AC,AC,54700,69600,59400,0.32,8.6,YELLOW,GREEN,Feb,7.0
+AC-016,Carrier 1 Ton 5 Star Inverter Split AC,AC,34000,43400,36800,0.3,8.2,YELLOW,GREEN,Feb,7.0
+AC-017,Hitachi 1 Ton 3 Star Inverter Split AC,AC,28300,38900,32000,0.35,13.1,YELLOW,GREEN,Feb,7.0
+AC-018,Hitachi 1.5 Ton 3 Star Inverter Split AC,AC,38100,47100,39700,0.18,4.2,GREEN,GREEN,Feb,7.0
+AC-019,Hitachi 1.5 Ton 5 Star Inverter Split AC,AC,39800,51300,43000,0.28,8.0,YELLOW,GREEN,Feb,7.0
+AC-020,Hitachi 1 Ton 5 Star Inverter Split AC,AC,37600,49100,41600,0.35,10.6,YELLOW,GREEN,Feb,7.0
+AC-021,Blue Star 1 Ton 3 Star Inverter Split AC,AC,34600,43500,37700,0.35,9.0,YELLOW,GREEN,Feb,7.0
+AC-022,Blue Star 1.5 Ton 5 Star Inverter Split AC,AC,47000,58400,50200,0.28,6.8,YELLOW,GREEN,Feb,7.0
+AC-023,Blue Star 1.5 Ton 3 Star Window AC,AC,24700,32000,27400,0.37,10.9,YELLOW,GREEN,Feb,7.0
+AC-024,Blue Star 2 Ton 3 Star Inverter Split AC,AC,54200,66400,57000,0.23,5.2,YELLOW,GREEN,Feb,7.0
+AC-025,Lloyd 1 Ton 3 Star Inverter Split AC,AC,31200,39100,32200,0.13,3.2,GREEN,GREEN,Feb,7.0
+AC-026,Lloyd 1.5 Ton 3 Star Inverter Split AC,AC,30200,42200,34100,0.32,12.9,YELLOW,GREEN,Feb,7.0
+AC-027,Lloyd 1.5 Ton 5 Star Inverter Split AC,AC,42600,55800,46800,0.32,9.9,YELLOW,GREEN,Feb,7.0
+AC-028,Lloyd 1.5 Ton 3 Star Window AC,AC,28500,37100,29500,0.12,3.5,GREEN,GREEN,Feb,7.0
+AC-029,Panasonic 1 Ton 3 Star Inverter Split AC,AC,29100,35200,31000,0.31,6.5,YELLOW,GREEN,Feb,7.0
+AC-030,Panasonic 1.5 Ton 3 Star Inverter Split AC,AC,36500,48900,40100,0.29,9.9,YELLOW,GREEN,Feb,7.0
+AC-031,Panasonic 1.5 Ton 3 Star Window AC,AC,28300,38100,31800,0.36,12.4,YELLOW,GREEN,Feb,7.0
+AC-032,Whirlpool 1.5 Ton 3 Star Window AC,AC,30600,40700,34600,0.4,13.1,YELLOW,GREEN,Feb,7.0
+HP-001,boAt Neckband Bluetooth Earphones,Headphones,1570,1980,1570,0.0,0.0,GREEN,GREEN,Nov,0.0
+HP-002,boAt Over-ear Wireless Headphones,Headphones,2730,3190,2730,0.0,0.0,GREEN,GREEN,Nov,0.0
+HP-003,Sony True Wireless Earbuds,Headphones,2790,3540,2790,0.0,0.0,GREEN,GREEN,Nov,0.0
+HP-004,Sony Neckband Bluetooth Earphones,Headphones,980,1340,980,0.0,0.0,GREEN,GREEN,Nov,0.0
+HP-005,Sony Over-ear Wireless Headphones,Headphones,2330,2650,2330,0.0,0.0,GREEN,GREEN,Nov,0.0
+HP-006,Sony Premium ANC Over-ear Headphones,Headphones,20600,25300,20600,0.0,0.0,GREEN,GREEN,Nov,0.0
+HP-007,JBL True Wireless Earbuds,Headphones,2300,2950,2300,0.0,0.0,GREEN,GREEN,Nov,0.0
+HP-008,JBL Neckband Bluetooth Earphones,Headphones,1130,1330,1130,0.0,0.0,GREEN,GREEN,Nov,0.0
+HP-009,JBL Over-ear Wireless Headphones,Headphones,2450,3040,2450,0.0,0.0,GREEN,GREEN,Nov,0.0
+HP-010,JBL ANC True Wireless Earbuds,Headphones,10300,12900,10300,0.0,0.0,GREEN,GREEN,Nov,0.0
+HP-011,JBL Premium ANC Over-ear Headphones,Headphones,24700,31300,24700,0.0,0.0,GREEN,GREEN,Nov,0.0
+HP-012,Sennheiser ANC True Wireless Earbuds,Headphones,6700,9200,6700,0.0,0.0,GREEN,GREEN,Nov,0.0
+HP-013,Sennheiser Premium ANC Over-ear Headphones,Headphones,16500,19900,16500,0.0,0.0,GREEN,GREEN,Nov,0.0
+HP-014,Bose ANC True Wireless Earbuds,Headphones,10100,11900,10100,0.0,0.0,GREEN,GREEN,Nov,0.0
+HP-015,Bose Premium ANC Over-ear Headphones,Headphones,24900,30700,24900,0.0,0.0,GREEN,GREEN,Nov,0.0
+HP-016,Noise True Wireless Earbuds,Headphones,2100,2790,2100,0.0,0.0,GREEN,GREEN,Nov,0.0
+HP-017,Noise Neckband Bluetooth Earphones,Headphones,1410,1780,1410,0.0,0.0,GREEN,GREEN,Nov,0.0
+HP-018,OnePlus True Wireless Earbuds,Headphones,1790,2230,1790,0.0,0.0,GREEN,GREEN,Nov,0.0
+HP-019,OnePlus Neckband Bluetooth Earphones,Headphones,1840,2200,1840,0.0,0.0,GREEN,GREEN,Nov,0.0
+HP-020,OnePlus Over-ear Wireless Headphones,Headphones,3010,3810,3010,0.0,0.0,GREEN,GREEN,Nov,0.0
+HP-021,OnePlus ANC True Wireless Earbuds,Headphones,7800,9600,7800,0.0,0.0,GREEN,GREEN,Nov,0.0
+HP-022,OnePlus Premium ANC Over-ear Headphones,Headphones,23000,28000,23000,0.0,0.0,GREEN,GREEN,Nov,0.0
+HP-023,Apple ANC True Wireless Earbuds,Headphones,9500,12200,9500,0.0,0.0,GREEN,GREEN,Nov,0.0
+HP-024,Apple Premium ANC Over-ear Headphones,Headphones,24600,30300,24600,0.0,0.0,GREEN,GREEN,Nov,0.0
+HP-025,Samsung True Wireless Earbuds,Headphones,1690,2060,1690,0.0,0.0,GREEN,GREEN,Nov,0.0
+HP-026,Samsung Over-ear Wireless Headphones,Headphones,5800,7000,5800,0.0,0.0,GREEN,GREEN,Nov,0.0
+HP-027,Samsung ANC True Wireless Earbuds,Headphones,9500,13000,9500,0.0,0.0,GREEN,GREEN,Nov,0.0
+HP-028,Samsung Premium ANC Over-ear Headphones,Headphones,18600,21800,18600,0.0,0.0,GREEN,GREEN,Nov,0.0
+HP-029,Realme True Wireless Earbuds,Headphones,2020,2480,2020,0.0,0.0,GREEN,GREEN,Nov,0.0
+HP-030,Realme Neckband Bluetooth Earphones,Headphones,1370,1680,1370,0.0,0.0,GREEN,GREEN,Nov,0.0
+HP-031,Realme Over-ear Wireless Headphones,Headphones,2960,3780,2960,0.0,0.0,GREEN,GREEN,Nov,0.0
+HP-032,Realme ANC True Wireless Earbuds,Headphones,4020,4930,4020,0.0,0.0,GREEN,GREEN,Nov,0.0
+LP-001,HP Everyday 15.6in 8GB/512GB SSD,Laptop,27000,35400,27000,0.0,0.0,GREEN,GREEN,Nov,0.0
+LP-002,HP Performance 15.6in 16GB/512GB SSD,Laptop,37000,46200,37000,0.0,0.0,GREEN,GREEN,Nov,0.0
+LP-003,HP Thin & Light 14in 16GB/512GB SSD,Laptop,39500,54200,40300,0.05,2.0,GREEN,GREEN,Nov,0.0
+LP-004,HP Gaming 15.6in 16GB/1TB SSD,Laptop,69100,85100,69100,0.0,0.0,GREEN,GREEN,Nov,0.0
+LP-005,HP Student 14in 8GB/256GB SSD,Laptop,17800,21900,17800,0.0,0.0,GREEN,GREEN,Nov,0.0
+LP-006,Dell Everyday 15.6in 8GB/512GB SSD,Laptop,34900,41200,34900,0.0,0.0,GREEN,GREEN,Nov,0.0
+LP-007,Dell Thin & Light 14in 16GB/512GB SSD,Laptop,37800,46300,37800,0.0,0.0,GREEN,GREEN,Nov,0.0
+LP-008,Dell Gaming 15.6in 16GB/1TB SSD,Laptop,79700,102400,79700,0.0,0.0,GREEN,GREEN,Nov,0.0
+LP-009,Dell Creator 16in 32GB/1TB SSD,Laptop,113800,138600,113800,0.0,0.0,GREEN,GREEN,Nov,0.0
+LP-010,Dell Student 14in 8GB/256GB SSD,Laptop,21700,26400,21700,0.0,0.0,GREEN,GREEN,Nov,0.0
+LP-011,Lenovo Everyday 15.6in 8GB/512GB SSD,Laptop,22400,28200,22400,0.0,0.0,GREEN,GREEN,Nov,0.0
+LP-012,Lenovo Performance 15.6in 16GB/512GB SSD,Laptop,50500,60200,50500,0.0,0.0,GREEN,GREEN,Nov,0.0
+LP-013,Lenovo Thin & Light 14in 16GB/512GB SSD,Laptop,36900,43200,36900,0.0,0.0,GREEN,GREEN,Nov,0.0
+LP-014,Lenovo Gaming 15.6in 16GB/1TB SSD,Laptop,58100,72300,58100,0.0,0.0,GREEN,GREEN,Nov,0.0
+LP-015,Lenovo Creator 16in 32GB/1TB SSD,Laptop,121900,147500,121900,0.0,0.0,GREEN,GREEN,Nov,0.0
+LP-016,ASUS Everyday 15.6in 8GB/512GB SSD,Laptop,29400,35900,29400,0.0,0.0,GREEN,GREEN,Nov,0.0
+LP-017,ASUS Performance 15.6in 16GB/512GB SSD,Laptop,52000,64300,52000,0.0,0.0,GREEN,GREEN,Nov,0.0
+LP-018,ASUS Thin & Light 14in 16GB/512GB SSD,Laptop,36600,45500,36600,0.0,0.0,GREEN,GREEN,Nov,0.0
+LP-019,ASUS Gaming 15.6in 16GB/1TB SSD,Laptop,64100,77700,64100,0.0,0.0,GREEN,GREEN,Nov,0.0
+LP-020,ASUS Creator 16in 32GB/1TB SSD,Laptop,102000,130600,102000,0.0,0.0,GREEN,GREEN,Nov,0.0
+LP-021,Acer Everyday 15.6in 8GB/512GB SSD,Laptop,26000,32200,26000,0.0,0.0,GREEN,GREEN,Nov,0.0
+LP-022,Acer Performance 15.6in 16GB/512GB SSD,Laptop,46300,60200,46300,0.0,0.0,GREEN,GREEN,Nov,0.0
+LP-023,Acer Thin & Light 14in 16GB/512GB SSD,Laptop,41600,53200,41600,0.0,0.0,GREEN,GREEN,Nov,0.0
+LP-024,Acer Gaming 15.6in 16GB/1TB SSD,Laptop,95100,112900,95100,0.0,0.0,GREEN,GREEN,Nov,0.0
+LP-025,Acer Creator 16in 32GB/1TB SSD,Laptop,121600,147700,121600,0.0,0.0,GREEN,GREEN,Nov,0.0
+LP-026,Acer Student 14in 8GB/256GB SSD,Laptop,20200,25300,20200,0.0,0.0,GREEN,GREEN,Nov,0.0
+LP-027,MSI Gaming 15.6in 16GB/1TB SSD,Laptop,84400,110000,84400,0.0,0.0,GREEN,GREEN,Nov,0.0
+LP-028,MSI Creator 16in 32GB/1TB SSD,Laptop,109400,129200,109400,0.0,0.0,GREEN,GREEN,Nov,0.0
+LP-029,Apple Thin & Light 14in 16GB/512GB SSD,Laptop,40800,54400,40800,0.0,0.0,GREEN,GREEN,Nov,0.0
+LP-030,Apple Creator 16in 32GB/1TB SSD,Laptop,89800,114300,89800,0.0,0.0,GREEN,GREEN,Nov,0.0
+LP-031,Samsung Thin & Light 14in 16GB/512GB SSD,Laptop,50300,58500,50300,0.0,0.0,GREEN,GREEN,Nov,0.0
+LP-032,Samsung Creator 16in 32GB/1TB SSD,Laptop,125400,153400,125400,0.0,0.0,GREEN,GREEN,Nov,0.0
+RF-001,Samsung 190L Single Door 3 Star,Refrigerator,14800,18000,14800,0.0,0.0,GREEN,GREEN,Nov,0.0
+RF-002,Samsung 253L Double Door Inverter 3 Star,Refrigerator,28500,35300,28500,0.0,0.0,GREEN,GREEN,Nov,0.0
+RF-003,Samsung 580L Side-by-Side,Refrigerator,97700,122300,97700,0.0,0.0,GREEN,GREEN,Nov,0.0
+RF-004,Samsung 300L Convertible Double Door,Refrigerator,34900,45200,34900,0.0,0.0,GREEN,GREEN,Nov,0.0
+RF-005,LG 190L Single Door 3 Star,Refrigerator,15100,18000,15100,0.0,0.0,GREEN,GREEN,Nov,0.0
+RF-006,LG 236L Double Door 3 Star,Refrigerator,24700,29600,24700,0.0,0.0,GREEN,GREEN,Nov,0.0
+RF-007,LG 340L Frost Free Double Door,Refrigerator,43500,53700,43500,0.0,0.0,GREEN,GREEN,Nov,0.0
+RF-008,LG 580L Side-by-Side,Refrigerator,64800,79200,64800,0.0,0.0,GREEN,GREEN,Nov,0.0
+RF-009,LG 300L Convertible Double Door,Refrigerator,32900,41000,32900,0.0,0.0,GREEN,GREEN,Nov,0.0
+RF-010,Whirlpool 190L Single Door 3 Star,Refrigerator,16800,20300,16800,0.0,0.0,GREEN,GREEN,Nov,0.0
+RF-011,Whirlpool 236L Double Door 3 Star,Refrigerator,24100,29400,24100,0.0,0.0,GREEN,GREEN,Nov,0.0
+RF-012,Whirlpool 253L Double Door Inverter 3 Star,Refrigerator,24900,29900,24900,0.0,0.0,GREEN,GREEN,Nov,0.0
+RF-013,Whirlpool 580L Side-by-Side,Refrigerator,107000,122000,107200,0.01,0.2,GREEN,GREEN,Nov,0.0
+RF-014,Whirlpool 300L Convertible Double Door,Refrigerator,29800,38000,29800,0.0,0.0,GREEN,GREEN,Nov,0.0
+RF-015,Haier 190L Single Door 3 Star,Refrigerator,15400,16800,15400,0.0,0.0,GREEN,GREEN,Nov,0.0
+RF-016,Haier 236L Double Door 3 Star,Refrigerator,26400,32600,26400,0.0,0.0,GREEN,GREEN,Nov,0.0
+RF-017,Haier 340L Frost Free Double Door,Refrigerator,45200,53200,45200,0.0,0.0,GREEN,GREEN,Nov,0.0
+RF-018,Haier 580L Side-by-Side,Refrigerator,79000,98300,79000,0.0,0.0,GREEN,GREEN,Nov,0.0
+RF-019,Haier 300L Convertible Double Door,Refrigerator,36900,43500,36900,0.0,0.0,GREEN,GREEN,Nov,0.0
+RF-020,Godrej 190L Single Door 3 Star,Refrigerator,16200,18600,16200,0.0,0.0,GREEN,GREEN,Nov,0.0
+RF-021,Godrej 236L Double Door 3 Star,Refrigerator,22600,28100,22600,0.0,0.0,GREEN,GREEN,Nov,0.0
+RF-022,Godrej 253L Double Door Inverter 3 Star,Refrigerator,25900,32000,25900,0.0,0.0,GREEN,GREEN,Nov,0.0
+RF-023,Godrej 340L Frost Free Double Door,Refrigerator,32300,39900,32300,0.0,0.0,GREEN,GREEN,Nov,0.0
+RF-024,Godrej 580L Side-by-Side,Refrigerator,99700,122200,101000,0.06,1.3,GREEN,GREEN,Nov,0.0
+RF-025,Godrej 300L Convertible Double Door,Refrigerator,34300,42600,34300,0.0,0.0,GREEN,GREEN,Nov,0.0
+RF-026,Bosch 340L Frost Free Double Door,Refrigerator,35000,44000,35000,0.0,0.0,GREEN,GREEN,Nov,0.0
+RF-027,Panasonic 190L Single Door 3 Star,Refrigerator,12500,16200,12500,0.0,0.0,GREEN,GREEN,Nov,0.0
+RF-028,Panasonic 236L Double Door 3 Star,Refrigerator,25200,29900,25200,0.0,0.0,GREEN,GREEN,Nov,0.0
+RF-029,Panasonic 253L Double Door Inverter 3 Star,Refrigerator,30200,36300,30200,0.0,0.0,GREEN,GREEN,Nov,0.0
+RF-030,Panasonic 340L Frost Free Double Door,Refrigerator,29400,36700,29400,0.0,0.0,GREEN,GREEN,Nov,0.0
+RF-031,Panasonic 300L Convertible Double Door,Refrigerator,27700,34200,27700,0.0,0.0,GREEN,GREEN,Nov,0.0
+RF-032,Hitachi 340L Frost Free Double Door,Refrigerator,36900,41600,37200,0.06,0.8,GREEN,GREEN,Nov,0.0
+SB-001,Sony 2.0 Channel 60W Soundbar,Soundbar,2770,3620,2770,0.0,0.0,GREEN,GREEN,Nov,0.0
+SB-002,Sony 2.1 Channel 120W with Subwoofer,Soundbar,10100,12400,10100,0.0,0.0,GREEN,GREEN,Nov,0.0
+SB-003,Sony 2.1 Channel 300W Dolby Audio,Soundbar,12900,16200,12900,0.0,0.0,GREEN,GREEN,Nov,0.0
+SB-004,Sony 3.1.2 Channel Dolby Atmos 400W,Soundbar,32200,39200,32200,0.0,0.0,GREEN,GREEN,Nov,0.0
+SB-005,Sony 5.1 Channel 500W Home Theatre,Soundbar,22000,27500,22000,0.0,0.0,GREEN,GREEN,Nov,0.0
+SB-006,JBL 2.0 Channel 60W Soundbar,Soundbar,4090,5300,4090,0.0,0.0,GREEN,GREEN,Nov,0.0
+SB-007,JBL 2.1 Channel 120W with Subwoofer,Soundbar,10400,12700,10400,0.0,0.0,GREEN,GREEN,Nov,0.0
+SB-008,JBL 2.1 Channel 300W Dolby Audio,Soundbar,20600,24300,20600,0.0,0.0,GREEN,GREEN,Nov,0.0
+SB-009,JBL 3.1.2 Channel Dolby Atmos 400W,Soundbar,40900,48800,40900,0.0,0.0,GREEN,GREEN,Nov,0.0
+SB-010,JBL 5.1 Channel 500W Home Theatre,Soundbar,32600,38000,32600,0.0,0.0,GREEN,GREEN,Nov,0.0
+SB-011,boAt 2.0 Channel 60W Soundbar,Soundbar,3610,4350,3610,0.0,0.0,GREEN,GREEN,Nov,0.0
+SB-012,boAt 2.1 Channel 120W with Subwoofer,Soundbar,8000,10100,8000,0.0,0.0,GREEN,GREEN,Nov,0.0
+SB-013,boAt 2.1 Channel 300W Dolby Audio,Soundbar,16400,20000,16400,0.0,0.0,GREEN,GREEN,Nov,0.0
+SB-014,Samsung 2.0 Channel 60W Soundbar,Soundbar,3590,4350,3590,0.0,0.0,GREEN,GREEN,Nov,0.0
+SB-015,Samsung 2.1 Channel 120W with Subwoofer,Soundbar,10200,12600,10200,0.0,0.0,GREEN,GREEN,Nov,0.0
+SB-016,Samsung 2.1 Channel 300W Dolby Audio,Soundbar,12400,16000,12400,0.0,0.0,GREEN,GREEN,Nov,0.0
+SB-017,Samsung 3.1.2 Channel Dolby Atmos 400W,Soundbar,43200,52400,43200,0.0,0.0,GREEN,GREEN,Nov,0.0
+SB-018,Samsung 5.1 Channel 500W Home Theatre,Soundbar,26400,33400,26400,0.0,0.0,GREEN,GREEN,Nov,0.0
+SB-019,LG 2.0 Channel 60W Soundbar,Soundbar,4850,5300,4850,0.0,0.0,GREEN,GREEN,Nov,0.0
+SB-020,LG 2.1 Channel 120W with Subwoofer,Soundbar,5500,6800,5500,0.0,0.0,GREEN,GREEN,Nov,0.0
+SB-021,LG 2.1 Channel 300W Dolby Audio,Soundbar,15700,18400,15700,0.0,0.0,GREEN,GREEN,Nov,0.0
+SB-022,LG 5.1 Channel 500W Home Theatre,Soundbar,37000,49300,37000,0.0,0.0,GREEN,GREEN,Nov,0.0
+SB-023,Zebronics 2.1 Channel 120W with Subwoofer,Soundbar,10500,12500,10500,0.0,0.0,GREEN,GREEN,Nov,0.0
+SB-024,Philips 2.0 Channel 60W Soundbar,Soundbar,4620,5700,4620,0.0,0.0,GREEN,GREEN,Nov,0.0
+SB-025,Philips 2.1 Channel 120W with Subwoofer,Soundbar,7800,9600,7800,0.0,0.0,GREEN,GREEN,Nov,0.0
+SB-026,Philips 2.1 Channel 300W Dolby Audio,Soundbar,18200,23100,18200,0.0,0.0,GREEN,GREEN,Nov,0.0
+SB-027,Bose 3.1.2 Channel Dolby Atmos 400W,Soundbar,52200,62700,52200,0.0,0.0,GREEN,GREEN,Nov,0.0
+SB-028,Bose 5.1 Channel 500W Home Theatre,Soundbar,35300,40900,35300,0.0,0.0,GREEN,GREEN,Nov,0.0
+SB-029,Mi 2.0 Channel 60W Soundbar,Soundbar,3120,4020,3120,0.0,0.0,GREEN,GREEN,Nov,0.0
+SB-030,Mi 2.1 Channel 120W with Subwoofer,Soundbar,5200,6500,5200,0.0,0.0,GREEN,GREEN,Nov,0.0
+SB-031,Realme 2.0 Channel 60W Soundbar,Soundbar,3950,4500,3950,0.0,0.0,GREEN,GREEN,Nov,0.0
+SB-032,Realme 2.1 Channel 120W with Subwoofer,Soundbar,7300,8600,7300,0.0,0.0,GREEN,GREEN,Nov,0.0
+SP-001,Samsung Flagship 5G 12GB/256GB,Smartphone,59000,77700,59000,0.0,0.0,GREEN,GREEN,Mar,1.0
+SP-002,Samsung Flagship 5G 12GB/512GB,Smartphone,92700,120900,93600,0.03,1.0,GREEN,GREEN,Mar,1.0
+SP-003,Apple Flagship 5G 12GB/256GB,Smartphone,73100,84600,73600,0.04,0.7,GREEN,GREEN,Mar,1.0
+SP-004,OnePlus Mid-range 5G 8GB/128GB,Smartphone,18400,21800,19300,0.26,4.9,YELLOW,GREEN,Mar,1.0
+SP-005,Xiaomi Mid-range 5G 8GB/256GB,Smartphone,24000,28900,24000,0.0,0.0,GREEN,GREEN,Mar,1.0
+SP-006,Xiaomi Flagship 5G 12GB/256GB,Smartphone,64700,80100,68300,0.23,5.6,YELLOW,GREEN,Mar,1.0
+SP-007,Xiaomi Flagship 5G 12GB/512GB,Smartphone,55900,65000,55900,0.0,0.0,GREEN,GREEN,Mar,1.0
+SP-008,Redmi Mid-range 5G 8GB/128GB,Smartphone,12400,14700,12400,0.0,0.0,GREEN,GREEN,Mar,1.0
+SP-009,Redmi Mid-range 5G 8GB/256GB,Smartphone,26400,33700,27200,0.11,3.0,GREEN,GREEN,Mar,1.0
+SP-010,Redmi Flagship 5G 12GB/256GB,Smartphone,61600,75400,62600,0.07,1.6,GREEN,GREEN,Mar,1.0
+SP-011,Redmi Flagship 5G 12GB/512GB,Smartphone,81500,99600,83200,0.09,2.1,GREEN,GREEN,Mar,1.0
+SP-012,Realme Budget 5G 6GB/128GB,Smartphone,9100,11700,10200,0.42,12.1,YELLOW,GREEN,Mar,1.0
+SP-013,Realme Mid-range 5G 8GB/128GB,Smartphone,19600,24200,20100,0.11,2.6,GREEN,GREEN,Mar,1.0
+SP-014,Realme Mid-range 5G 8GB/256GB,Smartphone,18700,22800,18700,0.0,0.0,GREEN,GREEN,Mar,1.0
+SP-015,Realme Upper-mid 5G 12GB/256GB,Smartphone,37900,49900,37900,0.0,0.0,GREEN,GREEN,Mar,1.0
+SP-016,Realme Flagship 5G 12GB/256GB,Smartphone,61600,76300,61600,0.0,0.0,GREEN,GREEN,Mar,1.0
+SP-017,Vivo Mid-range 5G 8GB/128GB,Smartphone,16000,19800,16300,0.08,1.9,GREEN,GREEN,Mar,1.0
+SP-018,Oppo Budget 5G 6GB/128GB,Smartphone,11500,14100,11500,0.0,0.0,GREEN,GREEN,Mar,1.0
+SP-019,Oppo Upper-mid 5G 12GB/256GB,Smartphone,27700,34500,28700,0.15,3.6,GREEN,GREEN,Mar,1.0
+SP-020,Oppo Flagship 5G 12GB/512GB,Smartphone,82400,107700,86900,0.18,5.5,GREEN,GREEN,Mar,1.0
+SP-021,Motorola Mid-range 5G 8GB/128GB,Smartphone,15100,18500,15100,0.0,0.0,GREEN,GREEN,Mar,1.0
+SP-022,Motorola Upper-mid 5G 12GB/256GB,Smartphone,30200,37400,30200,0.0,0.0,GREEN,GREEN,Mar,1.0
+SP-023,Nothing Mid-range 5G 8GB/256GB,Smartphone,23300,27900,23600,0.07,1.3,GREEN,GREEN,Mar,1.0
+SP-024,Nothing Upper-mid 5G 12GB/256GB,Smartphone,27400,36300,29700,0.26,8.4,YELLOW,GREEN,Mar,1.0
+SP-025,iQOO Mid-range 5G 8GB/256GB,Smartphone,26200,30700,27300,0.24,4.2,YELLOW,GREEN,Mar,1.0
+SP-026,iQOO Upper-mid 5G 12GB/256GB,Smartphone,33200,39400,33200,0.0,0.0,GREEN,GREEN,Mar,1.0
+SP-027,iQOO Flagship 5G 12GB/256GB,Smartphone,60000,72800,60000,0.0,0.0,GREEN,GREEN,Mar,1.0
+SP-028,Poco Budget 5G 6GB/128GB,Smartphone,9000,11300,9300,0.13,3.3,GREEN,GREEN,Mar,1.0
+SP-029,Poco Mid-range 5G 8GB/128GB,Smartphone,17500,23600,19400,0.31,10.9,YELLOW,GREEN,Mar,1.0
+SP-030,Poco Mid-range 5G 8GB/256GB,Smartphone,20400,24800,20400,0.0,0.0,GREEN,GREEN,Mar,1.0
+SP-031,Poco Upper-mid 5G 12GB/256GB,Smartphone,39000,45500,40500,0.23,3.8,YELLOW,GREEN,Mar,1.0
+SP-032,Poco Flagship 5G 12GB/512GB,Smartphone,56500,72400,56500,0.0,0.0,GREEN,GREEN,Mar,1.0
+SW-001,Apple Premium Smartwatch with GPS,Smartwatch,18400,23200,18400,0.0,0.0,GREEN,GREEN,Nov,0.0
+SW-002,Samsung Calling Smartwatch AMOLED,Smartwatch,2720,3270,2720,0.0,0.0,GREEN,GREEN,Nov,0.0
+SW-003,Samsung Premium Smartwatch with GPS,Smartwatch,9900,13100,9900,0.0,0.0,GREEN,GREEN,Nov,0.0
+SW-004,Samsung Sports GPS Watch,Smartwatch,24800,29300,24800,0.0,0.0,GREEN,GREEN,Nov,0.0
+SW-005,Noise Calling Smartwatch AMOLED,Smartwatch,3940,4870,3940,0.0,0.0,GREEN,GREEN,Nov,0.0
+SW-006,Noise Fitness Band,Smartwatch,2380,2870,2380,0.0,0.0,GREEN,GREEN,Nov,0.0
+SW-007,boAt Basic Fitness Smartwatch,Smartwatch,1220,1560,1220,0.0,0.0,GREEN,GREEN,Nov,0.0
+SW-008,boAt Calling Smartwatch AMOLED,Smartwatch,1990,2420,1990,0.0,0.0,GREEN,GREEN,Nov,0.0
+SW-009,boAt Fitness Band,Smartwatch,1620,2070,1620,0.0,0.0,GREEN,GREEN,Nov,0.0
+SW-010,Fire-Boltt Basic Fitness Smartwatch,Smartwatch,1280,1600,1280,0.0,0.0,GREEN,GREEN,Nov,0.0
+SW-011,Fire-Boltt Calling Smartwatch AMOLED,Smartwatch,4690,5700,4690,0.0,0.0,GREEN,GREEN,Nov,0.0
+SW-012,Fire-Boltt Fitness Band,Smartwatch,2210,2590,2210,0.0,0.0,GREEN,GREEN,Nov,0.0
+SW-013,Amazfit Calling Smartwatch AMOLED,Smartwatch,3810,4550,3810,0.0,0.0,GREEN,GREEN,Nov,0.0
+SW-014,Amazfit Premium Smartwatch with GPS,Smartwatch,7200,9200,7200,0.0,0.0,GREEN,GREEN,Nov,0.0
+SW-015,Amazfit Sports GPS Watch,Smartwatch,34300,41300,34300,0.0,0.0,GREEN,GREEN,Nov,0.0
+SW-016,Amazfit Fitness Band,Smartwatch,2000,2400,2000,0.0,0.0,GREEN,GREEN,Nov,0.0
+SW-017,Garmin Premium Smartwatch with GPS,Smartwatch,16300,20500,16300,0.0,0.0,GREEN,GREEN,Nov,0.0
+SW-018,Garmin Sports GPS Watch,Smartwatch,15800,19400,15800,0.0,0.0,GREEN,GREEN,Nov,0.0
+SW-019,Fitbit Premium Smartwatch with GPS,Smartwatch,8100,10300,8100,0.0,0.0,GREEN,GREEN,Nov,0.0
+SW-020,Fitbit Fitness Band,Smartwatch,1290,1500,1290,0.0,0.0,GREEN,GREEN,Nov,0.0
+SW-021,OnePlus Calling Smartwatch AMOLED,Smartwatch,3660,4370,3660,0.0,0.0,GREEN,GREEN,Nov,0.0
+SW-022,OnePlus Fitness Band,Smartwatch,2740,3440,2740,0.0,0.0,GREEN,GREEN,Nov,0.0
+SW-023,Realme Basic Fitness Smartwatch,Smartwatch,1590,1990,1590,0.0,0.0,GREEN,GREEN,Nov,0.0
+SW-024,Realme Calling Smartwatch AMOLED,Smartwatch,2850,3530,2850,0.0,0.0,GREEN,GREEN,Nov,0.0
+SW-025,Realme Fitness Band,Smartwatch,1190,1500,1190,0.0,0.0,GREEN,GREEN,Nov,0.0
+SW-026,Huawei Calling Smartwatch AMOLED,Smartwatch,4170,5100,4170,0.0,0.0,GREEN,GREEN,Nov,0.0
+SW-027,Xiaomi Basic Fitness Smartwatch,Smartwatch,2180,2650,2180,0.0,0.0,GREEN,GREEN,Nov,0.0
+SW-028,Xiaomi Calling Smartwatch AMOLED,Smartwatch,3180,3900,3180,0.0,0.0,GREEN,GREEN,Nov,0.0
+SW-029,Xiaomi Fitness Band,Smartwatch,1370,1610,1370,0.0,0.0,GREEN,GREEN,Nov,0.0
+SW-030,Titan Calling Smartwatch AMOLED,Smartwatch,2360,2740,2360,0.0,0.0,GREEN,GREEN,Nov,0.0
+SW-031,Titan Premium Smartwatch with GPS,Smartwatch,8100,10100,8100,0.0,0.0,GREEN,GREEN,Nov,0.0
+SW-032,Google Premium Smartwatch with GPS,Smartwatch,12000,15000,12000,0.0,0.0,GREEN,GREEN,Nov,0.0
+TB-001,Samsung Entry 8-inch 3GB/32GB,Tablet,5400,7600,5400,0.0,0.0,GREEN,GREEN,Nov,0.0
+TB-002,Samsung 11-inch 6GB/128GB,Tablet,16800,20100,16800,0.0,0.0,GREEN,GREEN,Nov,0.0
+TB-003,Samsung 11-inch 8GB/256GB,Tablet,32600,38300,32600,0.0,0.0,GREEN,GREEN,Nov,0.0
+TB-004,Samsung 12.9-inch Pro 8GB/256GB,Tablet,63100,75100,63100,0.0,0.0,GREEN,GREEN,Nov,0.0
+TB-005,Samsung 10.1-inch 4G Calling 4GB/64GB,Tablet,12200,14700,12200,0.0,0.0,GREEN,GREEN,Nov,0.0
+TB-006,Samsung Kids Edition 8-inch 2GB/32GB,Tablet,5600,7000,5600,0.0,0.0,GREEN,GREEN,Nov,0.0
+TB-007,Apple 10.4-inch 4GB/64GB,Tablet,13500,16200,13500,0.0,0.0,GREEN,GREEN,Nov,0.0
+TB-008,Apple 12.9-inch Pro 8GB/256GB,Tablet,85000,108200,85000,0.0,0.0,GREEN,GREEN,Nov,0.0
+TB-009,Lenovo Entry 8-inch 3GB/32GB,Tablet,6900,8100,6900,0.0,0.0,GREEN,GREEN,Nov,0.0
+TB-010,Lenovo 10.4-inch 4GB/64GB,Tablet,16200,19100,16200,0.0,0.0,GREEN,GREEN,Nov,0.0
+TB-011,Lenovo 11-inch 8GB/256GB,Tablet,41900,49200,41900,0.0,0.0,GREEN,GREEN,Nov,0.0
+TB-012,Lenovo 12.9-inch Pro 8GB/256GB,Tablet,88300,111200,88300,0.0,0.0,GREEN,GREEN,Nov,0.0
+TB-013,Lenovo 11-inch OLED 8GB/128GB,Tablet,36800,46600,36800,0.0,0.0,GREEN,GREEN,Nov,0.0
+TB-014,Lenovo Kids Edition 8-inch 2GB/32GB,Tablet,4250,5200,4250,0.0,0.0,GREEN,GREEN,Nov,0.0
+TB-015,Xiaomi Entry 8-inch 3GB/32GB,Tablet,6100,7100,6100,0.0,0.0,GREEN,GREEN,Nov,0.0
+TB-016,Xiaomi 10.4-inch 4GB/64GB,Tablet,13700,17000,13700,0.0,0.0,GREEN,GREEN,Nov,0.0
+TB-017,Xiaomi 11-inch 6GB/128GB,Tablet,21600,27100,21600,0.0,0.0,GREEN,GREEN,Nov,0.0
+TB-018,Xiaomi 11-inch 8GB/256GB,Tablet,32100,38200,32100,0.0,0.0,GREEN,GREEN,Nov,0.0
+TB-019,Xiaomi 12.9-inch Pro 8GB/256GB,Tablet,59500,79000,59500,0.0,0.0,GREEN,GREEN,Nov,0.0
+TB-020,Xiaomi 10.1-inch 4G Calling 4GB/64GB,Tablet,9900,11700,9900,0.0,0.0,GREEN,GREEN,Nov,0.0
+TB-021,Xiaomi Kids Edition 8-inch 2GB/32GB,Tablet,6200,7800,6200,0.0,0.0,GREEN,GREEN,Nov,0.0
+TB-022,Realme 10.4-inch 4GB/64GB,Tablet,11300,13700,11300,0.0,0.0,GREEN,GREEN,Nov,0.0
+TB-023,Realme 10.1-inch 4G Calling 4GB/64GB,Tablet,11200,13800,11200,0.0,0.0,GREEN,GREEN,Nov,0.0
+TB-024,OnePlus 11-inch 6GB/128GB,Tablet,19900,24400,19900,0.0,0.0,GREEN,GREEN,Nov,0.0
+TB-025,OnePlus 11-inch 8GB/256GB,Tablet,29400,34800,29400,0.0,0.0,GREEN,GREEN,Nov,0.0
+TB-026,OnePlus 11-inch OLED 8GB/128GB,Tablet,45000,53400,45000,0.0,0.0,GREEN,GREEN,Nov,0.0
+TB-027,Amazon Entry 8-inch 3GB/32GB,Tablet,5100,6100,5100,0.0,0.0,GREEN,GREEN,Nov,0.0
+TB-028,Nokia Entry 8-inch 3GB/32GB,Tablet,4790,5700,4790,0.0,0.0,GREEN,GREEN,Nov,0.0
+TB-029,Nokia Kids Edition 8-inch 2GB/32GB,Tablet,4850,6100,4850,0.0,0.0,GREEN,GREEN,Nov,0.0
+TB-030,Honor 11-inch 6GB/128GB,Tablet,17800,21300,17800,0.0,0.0,GREEN,GREEN,Nov,0.0
+TB-031,Honor 11-inch OLED 8GB/128GB,Tablet,37400,44200,37400,0.0,0.0,GREEN,GREEN,Nov,0.0
+TB-032,Huawei 11-inch 8GB/256GB,Tablet,34800,40400,34800,0.0,0.0,GREEN,GREEN,Nov,0.0
+TV-001,Samsung 32-inch HD Smart TV,TV,10500,13300,10500,0.0,0.0,GREEN,GREEN,Nov,0.0
+TV-002,Samsung 55-inch 4K Smart TV,TV,38200,49800,38200,0.0,0.0,GREEN,GREEN,Nov,0.0
+TV-003,Samsung 55-inch QLED 4K Smart TV,TV,45400,62900,45400,0.0,0.0,GREEN,GREEN,Nov,0.0
+TV-004,LG 32-inch HD Smart TV,TV,9600,13100,9600,0.0,0.0,GREEN,GREEN,Nov,0.0
+TV-005,LG 43-inch Full HD Smart TV,TV,16700,20600,16700,0.0,0.0,GREEN,GREEN,Nov,0.0
+TV-006,LG 43-inch 4K Smart TV,TV,24700,33400,24700,0.0,0.0,GREEN,GREEN,Nov,0.0
+TV-007,LG 55-inch 4K Smart TV,TV,23900,34300,23900,0.0,0.0,GREEN,GREEN,Nov,0.0
+TV-008,LG 75-inch 4K Smart TV,TV,121100,164800,121100,0.0,0.0,GREEN,GREEN,Nov,0.0
+TV-009,Sony 43-inch Full HD Smart TV,TV,15000,19700,15000,0.0,0.0,GREEN,GREEN,Nov,0.0
+TV-010,Sony 55-inch QLED 4K Smart TV,TV,51700,66600,51700,0.0,0.0,GREEN,GREEN,Nov,0.0
+TV-011,Sony 65-inch 4K QLED Smart TV,TV,71600,93300,71600,0.0,0.0,GREEN,GREEN,Nov,0.0
+TV-012,Sony 75-inch 4K Smart TV,TV,160000,191300,160000,0.0,0.0,GREEN,GREEN,Nov,0.0
+TV-013,Mi 55-inch 4K Smart TV,TV,40300,49600,40300,0.0,0.0,GREEN,GREEN,Nov,0.0
+TV-014,Mi 65-inch 4K QLED Smart TV,TV,71100,95100,71100,0.0,0.0,GREEN,GREEN,Nov,0.0
+TV-015,TCL 32-inch HD Smart TV,TV,9300,12200,9300,0.0,0.0,GREEN,GREEN,Nov,0.0
+TV-016,TCL 55-inch 4K Smart TV,TV,37000,46900,37000,0.0,0.0,GREEN,GREEN,Nov,0.0
+TV-017,TCL 65-inch 4K QLED Smart TV,TV,55200,72200,55200,0.0,0.0,GREEN,GREEN,Nov,0.0
+TV-018,Hisense 43-inch Full HD Smart TV,TV,18900,25200,18900,0.0,0.0,GREEN,GREEN,Nov,0.0
+TV-019,Hisense 43-inch 4K Smart TV,TV,28100,36800,28100,0.0,0.0,GREEN,GREEN,Nov,0.0
+TV-020,Hisense 75-inch 4K Smart TV,TV,165500,202700,165500,0.0,0.0,GREEN,GREEN,Nov,0.0
+TV-021,Vu 32-inch HD Smart TV,TV,9500,12600,9500,0.0,0.0,GREEN,GREEN,Nov,0.0
+TV-022,Vu 43-inch 4K Smart TV,TV,16800,25200,16800,0.0,0.0,GREEN,GREEN,Nov,0.0
+TV-023,Vu 55-inch 4K Smart TV,TV,28300,38400,28300,0.0,0.0,GREEN,GREEN,Nov,0.0
+TV-024,OnePlus 43-inch Full HD Smart TV,TV,16000,21100,16000,0.0,0.0,GREEN,GREEN,Nov,0.0
+TV-025,OnePlus 43-inch 4K Smart TV,TV,27300,34000,27300,0.0,0.0,GREEN,GREEN,Nov,0.0
+TV-026,OnePlus 55-inch 4K Smart TV,TV,31000,43700,31000,0.0,0.0,GREEN,GREEN,Nov,0.0
+TV-027,Acer 32-inch HD Smart TV,TV,11100,14300,11100,0.0,0.0,GREEN,GREEN,Nov,0.0
+TV-028,Acer 43-inch Full HD Smart TV,TV,13900,19700,13900,0.0,0.0,GREEN,GREEN,Nov,0.0
+TV-029,Acer 43-inch 4K Smart TV,TV,24000,29900,24000,0.0,0.0,GREEN,GREEN,Nov,0.0
+TV-030,Acer 55-inch 4K Smart TV,TV,36000,46400,36000,0.0,0.0,GREEN,GREEN,Nov,0.0
+TV-031,Acer 65-inch 4K QLED Smart TV,TV,110300,139000,110300,0.0,0.0,GREEN,GREEN,Nov,0.0
+TV-032,Panasonic 43-inch Full HD Smart TV,TV,19500,26000,19500,0.0,0.0,GREEN,GREEN,Nov,0.0
+WM-001,Samsung 7kg Fully Automatic Top Load,Washing Machine,16600,19400,16600,0.0,0.0,GREEN,GREEN,Nov,0.0
+WM-002,Samsung 8kg Fully Automatic Top Load,Washing Machine,24700,30500,24700,0.0,0.0,GREEN,GREEN,Nov,0.0
+WM-003,Samsung 7kg Front Load Inverter,Washing Machine,31300,38100,31300,0.0,0.0,GREEN,GREEN,Nov,0.0
+WM-004,Samsung 8kg Front Load Inverter,Washing Machine,28300,32900,29000,0.15,2.5,GREEN,GREEN,Nov,0.0
+WM-005,Samsung 9kg Front Load with Steam,Washing Machine,31500,39000,31500,0.0,0.0,GREEN,GREEN,Nov,0.0
+WM-006,LG 6.5kg Semi-Automatic Top Load,Washing Machine,11100,13200,11100,0.0,0.0,GREEN,GREEN,Nov,0.0
+WM-007,LG 7kg Fully Automatic Top Load,Washing Machine,21200,25000,21200,0.0,0.0,GREEN,GREEN,Nov,0.0
+WM-008,LG 7kg Front Load Inverter,Washing Machine,27000,31700,27000,0.0,0.0,GREEN,GREEN,Nov,0.0
+WM-009,IFB 7kg Fully Automatic Top Load,Washing Machine,21700,24700,21700,0.0,0.0,GREEN,GREEN,Nov,0.0
+WM-010,IFB 8kg Fully Automatic Top Load,Washing Machine,16900,20600,16900,0.0,0.0,GREEN,GREEN,Nov,0.0
+WM-011,IFB 7kg Front Load Inverter,Washing Machine,27800,33100,27800,0.0,0.0,GREEN,GREEN,Nov,0.0
+WM-012,IFB 8kg Front Load Inverter,Washing Machine,30400,34100,30400,0.0,0.0,GREEN,GREEN,Nov,0.0
+WM-013,Whirlpool 7kg Fully Automatic Top Load,Washing Machine,19900,24100,19900,0.0,0.0,GREEN,GREEN,Nov,0.0
+WM-014,Whirlpool 8kg Fully Automatic Top Load,Washing Machine,21700,26100,21700,0.0,0.0,GREEN,GREEN,Nov,0.0
+WM-015,Whirlpool 7kg Front Load Inverter,Washing Machine,30200,35500,30200,0.0,0.0,GREEN,GREEN,Nov,0.0
+WM-016,Whirlpool 8kg Front Load Inverter,Washing Machine,28300,34100,28300,0.0,0.0,GREEN,GREEN,Nov,0.0
+WM-017,Whirlpool 9kg Front Load with Steam,Washing Machine,38900,45900,38900,0.0,0.0,GREEN,GREEN,Nov,0.0
+WM-018,Bosch 7kg Front Load Inverter,Washing Machine,26100,30700,26100,0.0,0.0,GREEN,GREEN,Nov,0.0
+WM-019,Bosch 8kg Front Load Inverter,Washing Machine,31300,36600,31300,0.0,0.0,GREEN,GREEN,Nov,0.0
+WM-020,Bosch 9kg Front Load with Steam,Washing Machine,38800,45700,38800,0.0,0.0,GREEN,GREEN,Nov,0.0
+WM-021,Godrej 6.5kg Semi-Automatic Top Load,Washing Machine,11600,13800,11600,0.0,0.0,GREEN,GREEN,Nov,0.0
+WM-022,Godrej 7kg Fully Automatic Top Load,Washing Machine,22100,25200,22100,0.0,0.0,GREEN,GREEN,Nov,0.0
+WM-023,Godrej 8kg Fully Automatic Top Load,Washing Machine,23300,26300,23300,0.0,0.0,GREEN,GREEN,Nov,0.0
+WM-024,Godrej 7kg Front Load Inverter,Washing Machine,28400,33500,28400,0.0,0.0,GREEN,GREEN,Nov,0.0
+WM-025,Godrej 9kg Front Load with Steam,Washing Machine,31400,35300,31400,0.0,0.0,GREEN,GREEN,Nov,0.0
+WM-026,Haier 6.5kg Semi-Automatic Top Load,Washing Machine,12500,14300,12600,0.06,0.8,GREEN,GREEN,Nov,0.0
+WM-027,Haier 7kg Front Load Inverter,Washing Machine,25200,29100,25200,0.0,0.0,GREEN,GREEN,Nov,0.0
+WM-028,Panasonic 6.5kg Semi-Automatic Top Load,Washing Machine,12100,14100,12100,0.0,0.0,GREEN,GREEN,Nov,0.0
+WM-029,Panasonic 7kg Fully Automatic Top Load,Washing Machine,19100,22600,19100,0.0,0.0,GREEN,GREEN,Nov,0.0
+WM-030,Panasonic 8kg Fully Automatic Top Load,Washing Machine,22800,27200,22800,0.0,0.0,GREEN,GREEN,Nov,0.0
+WM-031,Panasonic 7kg Front Load Inverter,Washing Machine,24800,29200,24800,0.0,0.0,GREEN,GREEN,Nov,0.0
+WM-032,Panasonic 8kg Front Load Inverter,Washing Machine,35000,40600,35000,0.0,0.0,GREEN,GREEN,Nov,0.0

@@ -1,0 +1,121 @@
+category,month,pct_deviation_from_annual_avg,note
+AC,1,-12,Winter - lowest demand
+AC,2,-14,Winter - annual low
+AC,3,-6,Demand starts building
+AC,4,2,Pre-summer rise
+AC,5,10,Peak summer demand
+AC,6,8,Summer still peak
+AC,7,2,Monsoon - demand cooling
+AC,8,-2,Post-peak decline
+AC,9,-4,Demand low - festival prep
+AC,10,-6,Festival season discounts
+AC,11,-3,Post-festival
+AC,12,-1,Year end
+Smartphone,1,1,Post-holiday stabilization
+Smartphone,2,-8,Pre-next-launch dip
+Smartphone,3,-10,Annual low before rumor cycle
+Smartphone,4,-6,Steady low
+Smartphone,5,-4,Steady low
+Smartphone,6,-2,Mid-year
+Smartphone,7,0,Baseline
+Smartphone,8,5,Pre-launch anticipation - stock tightens
+Smartphone,9,12,New flagship launch - old model still near full price briefly then starts dropping
+Smartphone,10,-5,Festival season (BBD/GIF) discounts
+Smartphone,11,-2,Post-festival
+Smartphone,12,0,Baseline
+Laptop,1,2,Post-holiday baseline
+Laptop,2,0,Baseline
+Laptop,3,-2,Slight dip
+Laptop,4,-4,Pre-summer dip
+Laptop,5,-2,Steady
+Laptop,6,3,Back-to-school demand rises
+Laptop,7,5,Back-to-school peak
+Laptop,8,3,Still elevated
+Laptop,9,-4,Festival run-up begins
+Laptop,10,-12,Festival season lowest (BBD/GIF)
+Laptop,11,-8,Post-festival - Diwali sale tail
+Laptop,12,-3,Year-end offers
+TV,1,8,Post-holiday price correction upward
+TV,2,5,Still elevated
+TV,3,-3,IPL season price drops begin
+TV,4,-6,IPL season discounts
+TV,5,-8,IPL peak - brands push volume
+TV,6,-2,Post-IPL
+TV,7,0,Baseline
+TV,8,2,Pre-festival stabilization
+TV,9,-5,Festival run-up
+TV,10,-14,Diwali - deepest discounts of year
+TV,11,-6,Post-Diwali tail offers
+TV,12,3,Year-end
+Refrigerator,1,4,Summer demand peak Apr-Jun - festive lows (assumed)
+Refrigerator,2,-3,Summer demand peak Apr-Jun - festive lows (assumed)
+Refrigerator,3,0,Summer demand peak Apr-Jun - festive lows (assumed)
+Refrigerator,4,5,Summer demand peak Apr-Jun - festive lows (assumed)
+Refrigerator,5,9,Summer demand peak Apr-Jun - festive lows (assumed)
+Refrigerator,6,6,Summer demand peak Apr-Jun - festive lows (assumed)
+Refrigerator,7,1,Summer demand peak Apr-Jun - festive lows (assumed)
+Refrigerator,8,-1,Summer demand peak Apr-Jun - festive lows (assumed)
+Refrigerator,9,-3,Summer demand peak Apr-Jun - festive lows (assumed)
+Refrigerator,10,-9,Summer demand peak Apr-Jun - festive lows (assumed)
+Refrigerator,11,-4,Summer demand peak Apr-Jun - festive lows (assumed)
+Refrigerator,12,-2,Summer demand peak Apr-Jun - festive lows (assumed)
+Washing Machine,1,2,Mild seasonality - festive lows (assumed)
+Washing Machine,2,2,Mild seasonality - festive lows (assumed)
+Washing Machine,3,1,Mild seasonality - festive lows (assumed)
+Washing Machine,4,0,Mild seasonality - festive lows (assumed)
+Washing Machine,5,-1,Mild seasonality - festive lows (assumed)
+Washing Machine,6,1,Mild seasonality - festive lows (assumed)
+Washing Machine,7,3,Mild seasonality - festive lows (assumed)
+Washing Machine,8,2,Mild seasonality - festive lows (assumed)
+Washing Machine,9,-3,Mild seasonality - festive lows (assumed)
+Washing Machine,10,-10,Mild seasonality - festive lows (assumed)
+Washing Machine,11,-5,Mild seasonality - festive lows (assumed)
+Washing Machine,12,-2,Mild seasonality - festive lows (assumed)
+Headphones,1,2,Prime Day and festive discounts (assumed)
+Headphones,2,0,Prime Day and festive discounts (assumed)
+Headphones,3,0,Prime Day and festive discounts (assumed)
+Headphones,4,1,Prime Day and festive discounts (assumed)
+Headphones,5,1,Prime Day and festive discounts (assumed)
+Headphones,6,0,Prime Day and festive discounts (assumed)
+Headphones,7,-6,Prime Day and festive discounts (assumed)
+Headphones,8,-2,Prime Day and festive discounts (assumed)
+Headphones,9,-4,Prime Day and festive discounts (assumed)
+Headphones,10,-14,Prime Day and festive discounts (assumed)
+Headphones,11,-8,Prime Day and festive discounts (assumed)
+Headphones,12,-3,Prime Day and festive discounts (assumed)
+Smartwatch,1,-2,Festive and mid-year sale discounts (assumed)
+Smartwatch,2,0,Festive and mid-year sale discounts (assumed)
+Smartwatch,3,1,Festive and mid-year sale discounts (assumed)
+Smartwatch,4,2,Festive and mid-year sale discounts (assumed)
+Smartwatch,5,2,Festive and mid-year sale discounts (assumed)
+Smartwatch,6,1,Festive and mid-year sale discounts (assumed)
+Smartwatch,7,-4,Festive and mid-year sale discounts (assumed)
+Smartwatch,8,-2,Festive and mid-year sale discounts (assumed)
+Smartwatch,9,-3,Festive and mid-year sale discounts (assumed)
+Smartwatch,10,-13,Festive and mid-year sale discounts (assumed)
+Smartwatch,11,-7,Festive and mid-year sale discounts (assumed)
+Smartwatch,12,0,Festive and mid-year sale discounts (assumed)
+Tablet,1,1,Back-to-school demand Jun-Aug - festive lows (assumed)
+Tablet,2,0,Back-to-school demand Jun-Aug - festive lows (assumed)
+Tablet,3,-1,Back-to-school demand Jun-Aug - festive lows (assumed)
+Tablet,4,-2,Back-to-school demand Jun-Aug - festive lows (assumed)
+Tablet,5,0,Back-to-school demand Jun-Aug - festive lows (assumed)
+Tablet,6,4,Back-to-school demand Jun-Aug - festive lows (assumed)
+Tablet,7,5,Back-to-school demand Jun-Aug - festive lows (assumed)
+Tablet,8,3,Back-to-school demand Jun-Aug - festive lows (assumed)
+Tablet,9,-3,Back-to-school demand Jun-Aug - festive lows (assumed)
+Tablet,10,-11,Back-to-school demand Jun-Aug - festive lows (assumed)
+Tablet,11,-6,Back-to-school demand Jun-Aug - festive lows (assumed)
+Tablet,12,-1,Back-to-school demand Jun-Aug - festive lows (assumed)
+Soundbar,1,3,IPL season and festive discounts (assumed)
+Soundbar,2,2,IPL season and festive discounts (assumed)
+Soundbar,3,-2,IPL season and festive discounts (assumed)
+Soundbar,4,-4,IPL season and festive discounts (assumed)
+Soundbar,5,-5,IPL season and festive discounts (assumed)
+Soundbar,6,-1,IPL season and festive discounts (assumed)
+Soundbar,7,0,IPL season and festive discounts (assumed)
+Soundbar,8,1,IPL season and festive discounts (assumed)
+Soundbar,9,-4,IPL season and festive discounts (assumed)
+Soundbar,10,-12,IPL season and festive discounts (assumed)
+Soundbar,11,-5,IPL season and festive discounts (assumed)
+Soundbar,12,2,IPL season and festive discounts (assumed)

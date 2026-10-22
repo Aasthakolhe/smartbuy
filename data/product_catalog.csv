@@ -1,0 +1,321 @@
+product_id,product,category,brand,variant,base_price_jan2023,data_type,price_tier
+SP-001,Samsung Flagship 5G 12GB/256GB,Smartphone,Samsung,Flagship 5G 12GB/256GB,84100,synthetic,Premium
+SP-002,Samsung Flagship 5G 12GB/512GB,Smartphone,Samsung,Flagship 5G 12GB/512GB,118100,synthetic,Premium
+SP-003,Apple Flagship 5G 12GB/256GB,Smartphone,Apple,Flagship 5G 12GB/256GB,83200,synthetic,Premium
+SP-004,OnePlus Mid-range 5G 8GB/128GB,Smartphone,OnePlus,Mid-range 5G 8GB/128GB,22100,synthetic,Budget
+SP-005,Xiaomi Mid-range 5G 8GB/256GB,Smartphone,Xiaomi,Mid-range 5G 8GB/256GB,32400,synthetic,Mid
+SP-006,Xiaomi Flagship 5G 12GB/256GB,Smartphone,Xiaomi,Flagship 5G 12GB/256GB,79700,synthetic,Premium
+SP-007,Xiaomi Flagship 5G 12GB/512GB,Smartphone,Xiaomi,Flagship 5G 12GB/512GB,77000,synthetic,Premium
+SP-008,Redmi Mid-range 5G 8GB/128GB,Smartphone,Redmi,Mid-range 5G 8GB/128GB,17100,synthetic,Budget
+SP-009,Redmi Mid-range 5G 8GB/256GB,Smartphone,Redmi,Mid-range 5G 8GB/256GB,31300,synthetic,Mid
+SP-010,Redmi Flagship 5G 12GB/256GB,Smartphone,Redmi,Flagship 5G 12GB/256GB,81600,synthetic,Premium
+SP-011,Redmi Flagship 5G 12GB/512GB,Smartphone,Redmi,Flagship 5G 12GB/512GB,97200,synthetic,Premium
+SP-012,Realme Budget 5G 6GB/128GB,Smartphone,Realme,Budget 5G 6GB/128GB,11800,synthetic,Budget
+SP-013,Realme Mid-range 5G 8GB/128GB,Smartphone,Realme,Mid-range 5G 8GB/128GB,24900,synthetic,Budget
+SP-014,Realme Mid-range 5G 8GB/256GB,Smartphone,Realme,Mid-range 5G 8GB/256GB,24100,synthetic,Budget
+SP-015,Realme Upper-mid 5G 12GB/256GB,Smartphone,Realme,Upper-mid 5G 12GB/256GB,46400,synthetic,Mid
+SP-016,Realme Flagship 5G 12GB/256GB,Smartphone,Realme,Flagship 5G 12GB/256GB,86300,synthetic,Premium
+SP-017,Vivo Mid-range 5G 8GB/128GB,Smartphone,Vivo,Mid-range 5G 8GB/128GB,18500,synthetic,Budget
+SP-018,Oppo Budget 5G 6GB/128GB,Smartphone,Oppo,Budget 5G 6GB/128GB,13400,synthetic,Budget
+SP-019,Oppo Upper-mid 5G 12GB/256GB,Smartphone,Oppo,Upper-mid 5G 12GB/256GB,39100,synthetic,Mid
+SP-020,Oppo Flagship 5G 12GB/512GB,Smartphone,Oppo,Flagship 5G 12GB/512GB,99400,synthetic,Premium
+SP-021,Motorola Mid-range 5G 8GB/128GB,Smartphone,Motorola,Mid-range 5G 8GB/128GB,20900,synthetic,Budget
+SP-022,Motorola Upper-mid 5G 12GB/256GB,Smartphone,Motorola,Upper-mid 5G 12GB/256GB,37500,synthetic,Mid
+SP-023,Nothing Mid-range 5G 8GB/256GB,Smartphone,Nothing,Mid-range 5G 8GB/256GB,31200,synthetic,Mid
+SP-024,Nothing Upper-mid 5G 12GB/256GB,Smartphone,Nothing,Upper-mid 5G 12GB/256GB,37200,synthetic,Mid
+SP-025,iQOO Mid-range 5G 8GB/256GB,Smartphone,iQOO,Mid-range 5G 8GB/256GB,32100,synthetic,Mid
+SP-026,iQOO Upper-mid 5G 12GB/256GB,Smartphone,iQOO,Upper-mid 5G 12GB/256GB,45300,synthetic,Mid
+SP-027,iQOO Flagship 5G 12GB/256GB,Smartphone,iQOO,Flagship 5G 12GB/256GB,81400,synthetic,Premium
+SP-028,Poco Budget 5G 6GB/128GB,Smartphone,Poco,Budget 5G 6GB/128GB,11000,synthetic,Budget
+SP-029,Poco Mid-range 5G 8GB/128GB,Smartphone,Poco,Mid-range 5G 8GB/128GB,22300,synthetic,Budget
+SP-030,Poco Mid-range 5G 8GB/256GB,Smartphone,Poco,Mid-range 5G 8GB/256GB,26000,synthetic,Budget
+SP-031,Poco Upper-mid 5G 12GB/256GB,Smartphone,Poco,Upper-mid 5G 12GB/256GB,42500,synthetic,Mid
+SP-032,Poco Flagship 5G 12GB/512GB,Smartphone,Poco,Flagship 5G 12GB/512GB,77600,synthetic,Premium
+LP-001,HP Everyday 15.6in 8GB/512GB SSD,Laptop,HP,Everyday 15.6in 8GB/512GB SSD,39100,synthetic,Budget
+LP-002,HP Performance 15.6in 16GB/512GB SSD,Laptop,HP,Performance 15.6in 16GB/512GB SSD,45200,synthetic,Budget
+LP-003,HP Thin & Light 14in 16GB/512GB SSD,Laptop,HP,Thin & Light 14in 16GB/512GB SSD,49300,synthetic,Budget
+LP-004,HP Gaming 15.6in 16GB/1TB SSD,Laptop,HP,Gaming 15.6in 16GB/1TB SSD,81000,synthetic,Premium
+LP-005,HP Student 14in 8GB/256GB SSD,Laptop,HP,Student 14in 8GB/256GB SSD,23700,synthetic,Budget
+LP-006,Dell Everyday 15.6in 8GB/512GB SSD,Laptop,Dell,Everyday 15.6in 8GB/512GB SSD,41200,synthetic,Budget
+LP-007,Dell Thin & Light 14in 16GB/512GB SSD,Laptop,Dell,Thin & Light 14in 16GB/512GB SSD,49400,synthetic,Mid
+LP-008,Dell Gaming 15.6in 16GB/1TB SSD,Laptop,Dell,Gaming 15.6in 16GB/1TB SSD,105300,synthetic,Premium
+LP-009,Dell Creator 16in 32GB/1TB SSD,Laptop,Dell,Creator 16in 32GB/1TB SSD,128500,synthetic,Premium
+LP-010,Dell Student 14in 8GB/256GB SSD,Laptop,Dell,Student 14in 8GB/256GB SSD,27300,synthetic,Budget
+LP-011,Lenovo Everyday 15.6in 8GB/512GB SSD,Laptop,Lenovo,Everyday 15.6in 8GB/512GB SSD,30700,synthetic,Budget
+LP-012,Lenovo Performance 15.6in 16GB/512GB SSD,Laptop,Lenovo,Performance 15.6in 16GB/512GB SSD,57500,synthetic,Mid
+LP-013,Lenovo Thin & Light 14in 16GB/512GB SSD,Laptop,Lenovo,Thin & Light 14in 16GB/512GB SSD,49200,synthetic,Budget
+LP-014,Lenovo Gaming 15.6in 16GB/1TB SSD,Laptop,Lenovo,Gaming 15.6in 16GB/1TB SSD,79300,synthetic,Mid
+LP-015,Lenovo Creator 16in 32GB/1TB SSD,Laptop,Lenovo,Creator 16in 32GB/1TB SSD,157300,synthetic,Premium
+LP-016,ASUS Everyday 15.6in 8GB/512GB SSD,Laptop,ASUS,Everyday 15.6in 8GB/512GB SSD,40800,synthetic,Budget
+LP-017,ASUS Performance 15.6in 16GB/512GB SSD,Laptop,ASUS,Performance 15.6in 16GB/512GB SSD,58600,synthetic,Mid
+LP-018,ASUS Thin & Light 14in 16GB/512GB SSD,Laptop,ASUS,Thin & Light 14in 16GB/512GB SSD,50700,synthetic,Mid
+LP-019,ASUS Gaming 15.6in 16GB/1TB SSD,Laptop,ASUS,Gaming 15.6in 16GB/1TB SSD,80800,synthetic,Mid
+LP-020,ASUS Creator 16in 32GB/1TB SSD,Laptop,ASUS,Creator 16in 32GB/1TB SSD,149400,synthetic,Premium
+LP-021,Acer Everyday 15.6in 8GB/512GB SSD,Laptop,Acer,Everyday 15.6in 8GB/512GB SSD,36500,synthetic,Budget
+LP-022,Acer Performance 15.6in 16GB/512GB SSD,Laptop,Acer,Performance 15.6in 16GB/512GB SSD,64800,synthetic,Mid
+LP-023,Acer Thin & Light 14in 16GB/512GB SSD,Laptop,Acer,Thin & Light 14in 16GB/512GB SSD,57100,synthetic,Mid
+LP-024,Acer Gaming 15.6in 16GB/1TB SSD,Laptop,Acer,Gaming 15.6in 16GB/1TB SSD,105100,synthetic,Premium
+LP-025,Acer Creator 16in 32GB/1TB SSD,Laptop,Acer,Creator 16in 32GB/1TB SSD,150900,synthetic,Premium
+LP-026,Acer Student 14in 8GB/256GB SSD,Laptop,Acer,Student 14in 8GB/256GB SSD,25500,synthetic,Budget
+LP-027,MSI Gaming 15.6in 16GB/1TB SSD,Laptop,MSI,Gaming 15.6in 16GB/1TB SSD,103400,synthetic,Premium
+LP-028,MSI Creator 16in 32GB/1TB SSD,Laptop,MSI,Creator 16in 32GB/1TB SSD,144500,synthetic,Premium
+LP-029,Apple Thin & Light 14in 16GB/512GB SSD,Laptop,Apple,Thin & Light 14in 16GB/512GB SSD,62700,synthetic,Mid
+LP-030,Apple Creator 16in 32GB/1TB SSD,Laptop,Apple,Creator 16in 32GB/1TB SSD,116700,synthetic,Premium
+LP-031,Samsung Thin & Light 14in 16GB/512GB SSD,Laptop,Samsung,Thin & Light 14in 16GB/512GB SSD,59600,synthetic,Mid
+LP-032,Samsung Creator 16in 32GB/1TB SSD,Laptop,Samsung,Creator 16in 32GB/1TB SSD,163900,synthetic,Premium
+TV-001,Samsung 32-inch HD Smart TV,TV,Samsung,32-inch HD Smart TV,14300,synthetic,Budget
+TV-002,Samsung 55-inch 4K Smart TV,TV,Samsung,55-inch 4K Smart TV,53600,synthetic,Premium
+TV-003,Samsung 55-inch QLED 4K Smart TV,TV,Samsung,55-inch QLED 4K Smart TV,66500,synthetic,Premium
+TV-004,LG 32-inch HD Smart TV,TV,LG,32-inch HD Smart TV,12800,synthetic,Budget
+TV-005,LG 43-inch Full HD Smart TV,TV,LG,43-inch Full HD Smart TV,21400,synthetic,Budget
+TV-006,LG 43-inch 4K Smart TV,TV,LG,43-inch 4K Smart TV,33300,synthetic,Mid
+TV-007,LG 55-inch 4K Smart TV,TV,LG,55-inch 4K Smart TV,37800,synthetic,Mid
+TV-008,LG 75-inch 4K Smart TV,TV,LG,75-inch 4K Smart TV,157200,synthetic,Premium
+TV-009,Sony 43-inch Full HD Smart TV,TV,Sony,43-inch Full HD Smart TV,22000,synthetic,Budget
+TV-010,Sony 55-inch QLED 4K Smart TV,TV,Sony,55-inch QLED 4K Smart TV,69100,synthetic,Premium
+TV-011,Sony 65-inch 4K QLED Smart TV,TV,Sony,65-inch 4K QLED Smart TV,95700,synthetic,Premium
+TV-012,Sony 75-inch 4K Smart TV,TV,Sony,75-inch 4K Smart TV,184600,synthetic,Premium
+TV-013,Mi 55-inch 4K Smart TV,TV,Mi,55-inch 4K Smart TV,48300,synthetic,Mid
+TV-014,Mi 65-inch 4K QLED Smart TV,TV,Mi,65-inch 4K QLED Smart TV,104200,synthetic,Premium
+TV-015,TCL 32-inch HD Smart TV,TV,TCL,32-inch HD Smart TV,11900,synthetic,Budget
+TV-016,TCL 55-inch 4K Smart TV,TV,TCL,55-inch 4K Smart TV,51900,synthetic,Premium
+TV-017,TCL 65-inch 4K QLED Smart TV,TV,TCL,65-inch 4K QLED Smart TV,72100,synthetic,Premium
+TV-018,Hisense 43-inch Full HD Smart TV,TV,Hisense,43-inch Full HD Smart TV,27300,synthetic,Mid
+TV-019,Hisense 43-inch 4K Smart TV,TV,Hisense,43-inch 4K Smart TV,36700,synthetic,Mid
+TV-020,Hisense 75-inch 4K Smart TV,TV,Hisense,75-inch 4K Smart TV,206300,synthetic,Premium
+TV-021,Vu 32-inch HD Smart TV,TV,Vu,32-inch HD Smart TV,13000,synthetic,Budget
+TV-022,Vu 43-inch 4K Smart TV,TV,Vu,43-inch 4K Smart TV,24900,synthetic,Budget
+TV-023,Vu 55-inch 4K Smart TV,TV,Vu,55-inch 4K Smart TV,39400,synthetic,Mid
+TV-024,OnePlus 43-inch Full HD Smart TV,TV,OnePlus,43-inch Full HD Smart TV,20600,synthetic,Budget
+TV-025,OnePlus 43-inch 4K Smart TV,TV,OnePlus,43-inch 4K Smart TV,33200,synthetic,Mid
+TV-026,OnePlus 55-inch 4K Smart TV,TV,OnePlus,55-inch 4K Smart TV,48000,synthetic,Mid
+TV-027,Acer 32-inch HD Smart TV,TV,Acer,32-inch HD Smart TV,13500,synthetic,Budget
+TV-028,Acer 43-inch Full HD Smart TV,TV,Acer,43-inch Full HD Smart TV,18900,synthetic,Budget
+TV-029,Acer 43-inch 4K Smart TV,TV,Acer,43-inch 4K Smart TV,29600,synthetic,Mid
+TV-030,Acer 55-inch 4K Smart TV,TV,Acer,55-inch 4K Smart TV,43500,synthetic,Mid
+TV-031,Acer 65-inch 4K QLED Smart TV,TV,Acer,65-inch 4K QLED Smart TV,149900,synthetic,Premium
+TV-032,Panasonic 43-inch Full HD Smart TV,TV,Panasonic,43-inch Full HD Smart TV,25500,synthetic,Budget
+AC-001,Voltas 1.5 Ton 5 Star Inverter Split AC,AC,Voltas,1.5 Ton 5 Star Inverter Split AC,51400,synthetic,Premium
+AC-002,Voltas 1.5 Ton 3 Star Window AC,AC,Voltas,1.5 Ton 3 Star Window AC,34900,synthetic,Mid
+AC-003,Voltas 1 Ton 5 Star Inverter Split AC,AC,Voltas,1 Ton 5 Star Inverter Split AC,44800,synthetic,Premium
+AC-004,LG 1 Ton 3 Star Inverter Split AC,AC,LG,1 Ton 3 Star Inverter Split AC,32000,synthetic,Budget
+AC-005,LG 1.5 Ton 5 Star Inverter Split AC,AC,LG,1.5 Ton 5 Star Inverter Split AC,53100,synthetic,Premium
+AC-006,Daikin 1 Ton 3 Star Inverter Split AC,AC,Daikin,1 Ton 3 Star Inverter Split AC,32400,synthetic,Budget
+AC-007,Daikin 1.5 Ton 5 Star Inverter Split AC,AC,Daikin,1.5 Ton 5 Star Inverter Split AC,47500,synthetic,Premium
+AC-008,Daikin 1.5 Ton 3 Star Window AC,AC,Daikin,1.5 Ton 3 Star Window AC,28200,synthetic,Budget
+AC-009,Daikin 2 Ton 3 Star Inverter Split AC,AC,Daikin,2 Ton 3 Star Inverter Split AC,50300,synthetic,Premium
+AC-010,Samsung 1.5 Ton 3 Star Window AC,AC,Samsung,1.5 Ton 3 Star Window AC,28100,synthetic,Budget
+AC-011,Carrier 1 Ton 3 Star Inverter Split AC,AC,Carrier,1 Ton 3 Star Inverter Split AC,33500,synthetic,Budget
+AC-012,Carrier 1.5 Ton 3 Star Inverter Split AC,AC,Carrier,1.5 Ton 3 Star Inverter Split AC,43200,synthetic,Mid
+AC-013,Carrier 1.5 Ton 5 Star Inverter Split AC,AC,Carrier,1.5 Ton 5 Star Inverter Split AC,45500,synthetic,Premium
+AC-014,Carrier 1.5 Ton 3 Star Window AC,AC,Carrier,1.5 Ton 3 Star Window AC,35700,synthetic,Mid
+AC-015,Carrier 2 Ton 3 Star Inverter Split AC,AC,Carrier,2 Ton 3 Star Inverter Split AC,59200,synthetic,Premium
+AC-016,Carrier 1 Ton 5 Star Inverter Split AC,AC,Carrier,1 Ton 5 Star Inverter Split AC,39300,synthetic,Mid
+AC-017,Hitachi 1 Ton 3 Star Inverter Split AC,AC,Hitachi,1 Ton 3 Star Inverter Split AC,33300,synthetic,Budget
+AC-018,Hitachi 1.5 Ton 3 Star Inverter Split AC,AC,Hitachi,1.5 Ton 3 Star Inverter Split AC,45200,synthetic,Premium
+AC-019,Hitachi 1.5 Ton 5 Star Inverter Split AC,AC,Hitachi,1.5 Ton 5 Star Inverter Split AC,44500,synthetic,Mid
+AC-020,Hitachi 1 Ton 5 Star Inverter Split AC,AC,Hitachi,1 Ton 5 Star Inverter Split AC,39900,synthetic,Mid
+AC-021,Blue Star 1 Ton 3 Star Inverter Split AC,AC,Blue Star,1 Ton 3 Star Inverter Split AC,36900,synthetic,Mid
+AC-022,Blue Star 1.5 Ton 5 Star Inverter Split AC,AC,Blue Star,1.5 Ton 5 Star Inverter Split AC,48100,synthetic,Premium
+AC-023,Blue Star 1.5 Ton 3 Star Window AC,AC,Blue Star,1.5 Ton 3 Star Window AC,28400,synthetic,Budget
+AC-024,Blue Star 2 Ton 3 Star Inverter Split AC,AC,Blue Star,2 Ton 3 Star Inverter Split AC,61200,synthetic,Premium
+AC-025,Lloyd 1 Ton 3 Star Inverter Split AC,AC,Lloyd,1 Ton 3 Star Inverter Split AC,37100,synthetic,Mid
+AC-026,Lloyd 1.5 Ton 3 Star Inverter Split AC,AC,Lloyd,1.5 Ton 3 Star Inverter Split AC,39200,synthetic,Mid
+AC-027,Lloyd 1.5 Ton 5 Star Inverter Split AC,AC,Lloyd,1.5 Ton 5 Star Inverter Split AC,46000,synthetic,Premium
+AC-028,Lloyd 1.5 Ton 3 Star Window AC,AC,Lloyd,1.5 Ton 3 Star Window AC,31600,synthetic,Budget
+AC-029,Panasonic 1 Ton 3 Star Inverter Split AC,AC,Panasonic,1 Ton 3 Star Inverter Split AC,30600,synthetic,Budget
+AC-030,Panasonic 1.5 Ton 3 Star Inverter Split AC,AC,Panasonic,1.5 Ton 3 Star Inverter Split AC,41200,synthetic,Mid
+AC-031,Panasonic 1.5 Ton 3 Star Window AC,AC,Panasonic,1.5 Ton 3 Star Window AC,33000,synthetic,Budget
+AC-032,Whirlpool 1.5 Ton 3 Star Window AC,AC,Whirlpool,1.5 Ton 3 Star Window AC,33600,synthetic,Budget
+RF-001,Samsung 190L Single Door 3 Star,Refrigerator,Samsung,190L Single Door 3 Star,16300,synthetic,Budget
+RF-002,Samsung 253L Double Door Inverter 3 Star,Refrigerator,Samsung,253L Double Door Inverter 3 Star,29100,synthetic,Mid
+RF-003,Samsung 580L Side-by-Side,Refrigerator,Samsung,580L Side-by-Side,106000,synthetic,Premium
+RF-004,Samsung 300L Convertible Double Door,Refrigerator,Samsung,300L Convertible Double Door,37500,synthetic,Mid
+RF-005,LG 190L Single Door 3 Star,Refrigerator,LG,190L Single Door 3 Star,17600,synthetic,Budget
+RF-006,LG 236L Double Door 3 Star,Refrigerator,LG,236L Double Door 3 Star,24500,synthetic,Budget
+RF-007,LG 340L Frost Free Double Door,Refrigerator,LG,340L Frost Free Double Door,44400,synthetic,Premium
+RF-008,LG 580L Side-by-Side,Refrigerator,LG,580L Side-by-Side,70700,synthetic,Premium
+RF-009,LG 300L Convertible Double Door,Refrigerator,LG,300L Convertible Double Door,40500,synthetic,Premium
+RF-010,Whirlpool 190L Single Door 3 Star,Refrigerator,Whirlpool,190L Single Door 3 Star,16600,synthetic,Budget
+RF-011,Whirlpool 236L Double Door 3 Star,Refrigerator,Whirlpool,236L Double Door 3 Star,27000,synthetic,Budget
+RF-012,Whirlpool 253L Double Door Inverter 3 Star,Refrigerator,Whirlpool,253L Double Door Inverter 3 Star,29000,synthetic,Mid
+RF-013,Whirlpool 580L Side-by-Side,Refrigerator,Whirlpool,580L Side-by-Side,104400,synthetic,Premium
+RF-014,Whirlpool 300L Convertible Double Door,Refrigerator,Whirlpool,300L Convertible Double Door,31800,synthetic,Mid
+RF-015,Haier 190L Single Door 3 Star,Refrigerator,Haier,190L Single Door 3 Star,15500,synthetic,Budget
+RF-016,Haier 236L Double Door 3 Star,Refrigerator,Haier,236L Double Door 3 Star,28800,synthetic,Budget
+RF-017,Haier 340L Frost Free Double Door,Refrigerator,Haier,340L Frost Free Double Door,44900,synthetic,Premium
+RF-018,Haier 580L Side-by-Side,Refrigerator,Haier,580L Side-by-Side,94900,synthetic,Premium
+RF-019,Haier 300L Convertible Double Door,Refrigerator,Haier,300L Convertible Double Door,39400,synthetic,Premium
+RF-020,Godrej 190L Single Door 3 Star,Refrigerator,Godrej,190L Single Door 3 Star,16200,synthetic,Budget
+RF-021,Godrej 236L Double Door 3 Star,Refrigerator,Godrej,236L Double Door 3 Star,25400,synthetic,Budget
+RF-022,Godrej 253L Double Door Inverter 3 Star,Refrigerator,Godrej,253L Double Door Inverter 3 Star,31200,synthetic,Mid
+RF-023,Godrej 340L Frost Free Double Door,Refrigerator,Godrej,340L Frost Free Double Door,38000,synthetic,Premium
+RF-024,Godrej 580L Side-by-Side,Refrigerator,Godrej,580L Side-by-Side,101100,synthetic,Premium
+RF-025,Godrej 300L Convertible Double Door,Refrigerator,Godrej,300L Convertible Double Door,39600,synthetic,Premium
+RF-026,Bosch 340L Frost Free Double Door,Refrigerator,Bosch,340L Frost Free Double Door,36400,synthetic,Mid
+RF-027,Panasonic 190L Single Door 3 Star,Refrigerator,Panasonic,190L Single Door 3 Star,14500,synthetic,Budget
+RF-028,Panasonic 236L Double Door 3 Star,Refrigerator,Panasonic,236L Double Door 3 Star,28200,synthetic,Budget
+RF-029,Panasonic 253L Double Door Inverter 3 Star,Refrigerator,Panasonic,253L Double Door Inverter 3 Star,31100,synthetic,Mid
+RF-030,Panasonic 340L Frost Free Double Door,Refrigerator,Panasonic,340L Frost Free Double Door,34500,synthetic,Mid
+RF-031,Panasonic 300L Convertible Double Door,Refrigerator,Panasonic,300L Convertible Double Door,33200,synthetic,Mid
+RF-032,Hitachi 340L Frost Free Double Door,Refrigerator,Hitachi,340L Frost Free Double Door,35300,synthetic,Mid
+WM-001,Samsung 7kg Fully Automatic Top Load,Washing Machine,Samsung,7kg Fully Automatic Top Load,17400,synthetic,Budget
+WM-002,Samsung 8kg Fully Automatic Top Load,Washing Machine,Samsung,8kg Fully Automatic Top Load,27000,synthetic,Mid
+WM-003,Samsung 7kg Front Load Inverter,Washing Machine,Samsung,7kg Front Load Inverter,33300,synthetic,Premium
+WM-004,Samsung 8kg Front Load Inverter,Washing Machine,Samsung,8kg Front Load Inverter,30100,synthetic,Mid
+WM-005,Samsung 9kg Front Load with Steam,Washing Machine,Samsung,9kg Front Load with Steam,40000,synthetic,Premium
+WM-006,LG 6.5kg Semi-Automatic Top Load,Washing Machine,LG,6.5kg Semi-Automatic Top Load,11600,synthetic,Budget
+WM-007,LG 7kg Fully Automatic Top Load,Washing Machine,LG,7kg Fully Automatic Top Load,21300,synthetic,Budget
+WM-008,LG 7kg Front Load Inverter,Washing Machine,LG,7kg Front Load Inverter,27700,synthetic,Mid
+WM-009,IFB 7kg Fully Automatic Top Load,Washing Machine,IFB,7kg Fully Automatic Top Load,23800,synthetic,Budget
+WM-010,IFB 8kg Fully Automatic Top Load,Washing Machine,IFB,8kg Fully Automatic Top Load,20600,synthetic,Budget
+WM-011,IFB 7kg Front Load Inverter,Washing Machine,IFB,7kg Front Load Inverter,33700,synthetic,Premium
+WM-012,IFB 8kg Front Load Inverter,Washing Machine,IFB,8kg Front Load Inverter,31900,synthetic,Premium
+WM-013,Whirlpool 7kg Fully Automatic Top Load,Washing Machine,Whirlpool,7kg Fully Automatic Top Load,21600,synthetic,Budget
+WM-014,Whirlpool 8kg Fully Automatic Top Load,Washing Machine,Whirlpool,8kg Fully Automatic Top Load,27400,synthetic,Mid
+WM-015,Whirlpool 7kg Front Load Inverter,Washing Machine,Whirlpool,7kg Front Load Inverter,33000,synthetic,Premium
+WM-016,Whirlpool 8kg Front Load Inverter,Washing Machine,Whirlpool,8kg Front Load Inverter,30000,synthetic,Mid
+WM-017,Whirlpool 9kg Front Load with Steam,Washing Machine,Whirlpool,9kg Front Load with Steam,40300,synthetic,Premium
+WM-018,Bosch 7kg Front Load Inverter,Washing Machine,Bosch,7kg Front Load Inverter,27900,synthetic,Mid
+WM-019,Bosch 8kg Front Load Inverter,Washing Machine,Bosch,8kg Front Load Inverter,31800,synthetic,Premium
+WM-020,Bosch 9kg Front Load with Steam,Washing Machine,Bosch,9kg Front Load with Steam,40700,synthetic,Premium
+WM-021,Godrej 6.5kg Semi-Automatic Top Load,Washing Machine,Godrej,6.5kg Semi-Automatic Top Load,12800,synthetic,Budget
+WM-022,Godrej 7kg Fully Automatic Top Load,Washing Machine,Godrej,7kg Fully Automatic Top Load,22800,synthetic,Budget
+WM-023,Godrej 8kg Fully Automatic Top Load,Washing Machine,Godrej,8kg Fully Automatic Top Load,24000,synthetic,Mid
+WM-024,Godrej 7kg Front Load Inverter,Washing Machine,Godrej,7kg Front Load Inverter,30900,synthetic,Premium
+WM-025,Godrej 9kg Front Load with Steam,Washing Machine,Godrej,9kg Front Load with Steam,36500,synthetic,Premium
+WM-026,Haier 6.5kg Semi-Automatic Top Load,Washing Machine,Haier,6.5kg Semi-Automatic Top Load,12700,synthetic,Budget
+WM-027,Haier 7kg Front Load Inverter,Washing Machine,Haier,7kg Front Load Inverter,25600,synthetic,Mid
+WM-028,Panasonic 6.5kg Semi-Automatic Top Load,Washing Machine,Panasonic,6.5kg Semi-Automatic Top Load,12300,synthetic,Budget
+WM-029,Panasonic 7kg Fully Automatic Top Load,Washing Machine,Panasonic,7kg Fully Automatic Top Load,23300,synthetic,Budget
+WM-030,Panasonic 8kg Fully Automatic Top Load,Washing Machine,Panasonic,8kg Fully Automatic Top Load,24600,synthetic,Mid
+WM-031,Panasonic 7kg Front Load Inverter,Washing Machine,Panasonic,7kg Front Load Inverter,26100,synthetic,Mid
+WM-032,Panasonic 8kg Front Load Inverter,Washing Machine,Panasonic,8kg Front Load Inverter,39800,synthetic,Premium
+HP-001,boAt Neckband Bluetooth Earphones,Headphones,boAt,Neckband Bluetooth Earphones,2170,synthetic,Budget
+HP-002,boAt Over-ear Wireless Headphones,Headphones,boAt,Over-ear Wireless Headphones,3280,synthetic,Mid
+HP-003,Sony True Wireless Earbuds,Headphones,Sony,True Wireless Earbuds,3700,synthetic,Mid
+HP-004,Sony Neckband Bluetooth Earphones,Headphones,Sony,Neckband Bluetooth Earphones,1360,synthetic,Budget
+HP-005,Sony Over-ear Wireless Headphones,Headphones,Sony,Over-ear Wireless Headphones,3040,synthetic,Mid
+HP-006,Sony Premium ANC Over-ear Headphones,Headphones,Sony,Premium ANC Over-ear Headphones,27100,synthetic,Premium
+HP-007,JBL True Wireless Earbuds,Headphones,JBL,True Wireless Earbuds,2910,synthetic,Budget
+HP-008,JBL Neckband Bluetooth Earphones,Headphones,JBL,Neckband Bluetooth Earphones,1410,synthetic,Budget
+HP-009,JBL Over-ear Wireless Headphones,Headphones,JBL,Over-ear Wireless Headphones,3430,synthetic,Mid
+HP-010,JBL ANC True Wireless Earbuds,Headphones,JBL,ANC True Wireless Earbuds,12600,synthetic,Premium
+HP-011,JBL Premium ANC Over-ear Headphones,Headphones,JBL,Premium ANC Over-ear Headphones,35300,synthetic,Premium
+HP-012,Sennheiser ANC True Wireless Earbuds,Headphones,Sennheiser,ANC True Wireless Earbuds,9000,synthetic,Mid
+HP-013,Sennheiser Premium ANC Over-ear Headphones,Headphones,Sennheiser,Premium ANC Over-ear Headphones,21700,synthetic,Premium
+HP-014,Bose ANC True Wireless Earbuds,Headphones,Bose,ANC True Wireless Earbuds,12000,synthetic,Premium
+HP-015,Bose Premium ANC Over-ear Headphones,Headphones,Bose,Premium ANC Over-ear Headphones,30800,synthetic,Premium
+HP-016,Noise True Wireless Earbuds,Headphones,Noise,True Wireless Earbuds,2780,synthetic,Budget
+HP-017,Noise Neckband Bluetooth Earphones,Headphones,Noise,Neckband Bluetooth Earphones,1930,synthetic,Budget
+HP-018,OnePlus True Wireless Earbuds,Headphones,OnePlus,True Wireless Earbuds,2210,synthetic,Budget
+HP-019,OnePlus Neckband Bluetooth Earphones,Headphones,OnePlus,Neckband Bluetooth Earphones,2430,synthetic,Budget
+HP-020,OnePlus Over-ear Wireless Headphones,Headphones,OnePlus,Over-ear Wireless Headphones,4170,synthetic,Mid
+HP-021,OnePlus ANC True Wireless Earbuds,Headphones,OnePlus,ANC True Wireless Earbuds,9600,synthetic,Mid
+HP-022,OnePlus Premium ANC Over-ear Headphones,Headphones,OnePlus,Premium ANC Over-ear Headphones,27900,synthetic,Premium
+HP-023,Apple ANC True Wireless Earbuds,Headphones,Apple,ANC True Wireless Earbuds,12600,synthetic,Premium
+HP-024,Apple Premium ANC Over-ear Headphones,Headphones,Apple,Premium ANC Over-ear Headphones,30600,synthetic,Premium
+HP-025,Samsung True Wireless Earbuds,Headphones,Samsung,True Wireless Earbuds,2340,synthetic,Budget
+HP-026,Samsung Over-ear Wireless Headphones,Headphones,Samsung,Over-ear Wireless Headphones,7400,synthetic,Mid
+HP-027,Samsung ANC True Wireless Earbuds,Headphones,Samsung,ANC True Wireless Earbuds,13000,synthetic,Premium
+HP-028,Samsung Premium ANC Over-ear Headphones,Headphones,Samsung,Premium ANC Over-ear Headphones,23300,synthetic,Premium
+HP-029,Realme True Wireless Earbuds,Headphones,Realme,True Wireless Earbuds,2480,synthetic,Budget
+HP-030,Realme Neckband Bluetooth Earphones,Headphones,Realme,Neckband Bluetooth Earphones,1810,synthetic,Budget
+HP-031,Realme Over-ear Wireless Headphones,Headphones,Realme,Over-ear Wireless Headphones,4150,synthetic,Mid
+HP-032,Realme ANC True Wireless Earbuds,Headphones,Realme,ANC True Wireless Earbuds,5400,synthetic,Mid
+SW-001,Apple Premium Smartwatch with GPS,Smartwatch,Apple,Premium Smartwatch with GPS,23800,synthetic,Premium
+SW-002,Samsung Calling Smartwatch AMOLED,Smartwatch,Samsung,Calling Smartwatch AMOLED,3280,synthetic,Mid
+SW-003,Samsung Premium Smartwatch with GPS,Smartwatch,Samsung,Premium Smartwatch with GPS,14400,synthetic,Premium
+SW-004,Samsung Sports GPS Watch,Smartwatch,Samsung,Sports GPS Watch,30100,synthetic,Premium
+SW-005,Noise Calling Smartwatch AMOLED,Smartwatch,Noise,Calling Smartwatch AMOLED,5200,synthetic,Mid
+SW-006,Noise Fitness Band,Smartwatch,Noise,Fitness Band,2830,synthetic,Mid
+SW-007,boAt Basic Fitness Smartwatch,Smartwatch,boAt,Basic Fitness Smartwatch,1810,synthetic,Budget
+SW-008,boAt Calling Smartwatch AMOLED,Smartwatch,boAt,Calling Smartwatch AMOLED,2730,synthetic,Budget
+SW-009,boAt Fitness Band,Smartwatch,boAt,Fitness Band,2380,synthetic,Budget
+SW-010,Fire-Boltt Basic Fitness Smartwatch,Smartwatch,Fire-Boltt,Basic Fitness Smartwatch,1900,synthetic,Budget
+SW-011,Fire-Boltt Calling Smartwatch AMOLED,Smartwatch,Fire-Boltt,Calling Smartwatch AMOLED,5600,synthetic,Mid
+SW-012,Fire-Boltt Fitness Band,Smartwatch,Fire-Boltt,Fitness Band,2610,synthetic,Budget
+SW-013,Amazfit Calling Smartwatch AMOLED,Smartwatch,Amazfit,Calling Smartwatch AMOLED,4680,synthetic,Mid
+SW-014,Amazfit Premium Smartwatch with GPS,Smartwatch,Amazfit,Premium Smartwatch with GPS,10200,synthetic,Premium
+SW-015,Amazfit Sports GPS Watch,Smartwatch,Amazfit,Sports GPS Watch,43700,synthetic,Premium
+SW-016,Amazfit Fitness Band,Smartwatch,Amazfit,Fitness Band,2340,synthetic,Budget
+SW-017,Garmin Premium Smartwatch with GPS,Smartwatch,Garmin,Premium Smartwatch with GPS,22100,synthetic,Premium
+SW-018,Garmin Sports GPS Watch,Smartwatch,Garmin,Sports GPS Watch,21900,synthetic,Premium
+SW-019,Fitbit Premium Smartwatch with GPS,Smartwatch,Fitbit,Premium Smartwatch with GPS,11300,synthetic,Premium
+SW-020,Fitbit Fitness Band,Smartwatch,Fitbit,Fitness Band,1600,synthetic,Budget
+SW-021,OnePlus Calling Smartwatch AMOLED,Smartwatch,OnePlus,Calling Smartwatch AMOLED,4330,synthetic,Mid
+SW-022,OnePlus Fitness Band,Smartwatch,OnePlus,Fitness Band,3420,synthetic,Mid
+SW-023,Realme Basic Fitness Smartwatch,Smartwatch,Realme,Basic Fitness Smartwatch,2070,synthetic,Budget
+SW-024,Realme Calling Smartwatch AMOLED,Smartwatch,Realme,Calling Smartwatch AMOLED,3990,synthetic,Mid
+SW-025,Realme Fitness Band,Smartwatch,Realme,Fitness Band,1600,synthetic,Budget
+SW-026,Huawei Calling Smartwatch AMOLED,Smartwatch,Huawei,Calling Smartwatch AMOLED,5700,synthetic,Premium
+SW-027,Xiaomi Basic Fitness Smartwatch,Smartwatch,Xiaomi,Basic Fitness Smartwatch,2670,synthetic,Budget
+SW-028,Xiaomi Calling Smartwatch AMOLED,Smartwatch,Xiaomi,Calling Smartwatch AMOLED,4420,synthetic,Mid
+SW-029,Xiaomi Fitness Band,Smartwatch,Xiaomi,Fitness Band,1780,synthetic,Budget
+SW-030,Titan Calling Smartwatch AMOLED,Smartwatch,Titan,Calling Smartwatch AMOLED,2810,synthetic,Mid
+SW-031,Titan Premium Smartwatch with GPS,Smartwatch,Titan,Premium Smartwatch with GPS,10700,synthetic,Premium
+SW-032,Google Premium Smartwatch with GPS,Smartwatch,Google,Premium Smartwatch with GPS,16500,synthetic,Premium
+TB-001,Samsung Entry 8-inch 3GB/32GB,Tablet,Samsung,Entry 8-inch 3GB/32GB,8200,synthetic,Budget
+TB-002,Samsung 11-inch 6GB/128GB,Tablet,Samsung,11-inch 6GB/128GB,22800,synthetic,Mid
+TB-003,Samsung 11-inch 8GB/256GB,Tablet,Samsung,11-inch 8GB/256GB,42900,synthetic,Premium
+TB-004,Samsung 12.9-inch Pro 8GB/256GB,Tablet,Samsung,12.9-inch Pro 8GB/256GB,75400,synthetic,Premium
+TB-005,Samsung 10.1-inch 4G Calling 4GB/64GB,Tablet,Samsung,10.1-inch 4G Calling 4GB/64GB,15500,synthetic,Mid
+TB-006,Samsung Kids Edition 8-inch 2GB/32GB,Tablet,Samsung,Kids Edition 8-inch 2GB/32GB,7800,synthetic,Budget
+TB-007,Apple 10.4-inch 4GB/64GB,Tablet,Apple,10.4-inch 4GB/64GB,17200,synthetic,Mid
+TB-008,Apple 12.9-inch Pro 8GB/256GB,Tablet,Apple,12.9-inch Pro 8GB/256GB,102700,synthetic,Premium
+TB-009,Lenovo Entry 8-inch 3GB/32GB,Tablet,Lenovo,Entry 8-inch 3GB/32GB,9100,synthetic,Budget
+TB-010,Lenovo 10.4-inch 4GB/64GB,Tablet,Lenovo,10.4-inch 4GB/64GB,21200,synthetic,Mid
+TB-011,Lenovo 11-inch 8GB/256GB,Tablet,Lenovo,11-inch 8GB/256GB,49600,synthetic,Premium
+TB-012,Lenovo 12.9-inch Pro 8GB/256GB,Tablet,Lenovo,12.9-inch Pro 8GB/256GB,109700,synthetic,Premium
+TB-013,Lenovo 11-inch OLED 8GB/128GB,Tablet,Lenovo,11-inch OLED 8GB/128GB,47900,synthetic,Premium
+TB-014,Lenovo Kids Edition 8-inch 2GB/32GB,Tablet,Lenovo,Kids Edition 8-inch 2GB/32GB,5700,synthetic,Budget
+TB-015,Xiaomi Entry 8-inch 3GB/32GB,Tablet,Xiaomi,Entry 8-inch 3GB/32GB,7800,synthetic,Budget
+TB-016,Xiaomi 10.4-inch 4GB/64GB,Tablet,Xiaomi,10.4-inch 4GB/64GB,16900,synthetic,Mid
+TB-017,Xiaomi 11-inch 6GB/128GB,Tablet,Xiaomi,11-inch 6GB/128GB,28600,synthetic,Mid
+TB-018,Xiaomi 11-inch 8GB/256GB,Tablet,Xiaomi,11-inch 8GB/256GB,38400,synthetic,Premium
+TB-019,Xiaomi 12.9-inch Pro 8GB/256GB,Tablet,Xiaomi,12.9-inch Pro 8GB/256GB,78300,synthetic,Premium
+TB-020,Xiaomi 10.1-inch 4G Calling 4GB/64GB,Tablet,Xiaomi,10.1-inch 4G Calling 4GB/64GB,11300,synthetic,Budget
+TB-021,Xiaomi Kids Edition 8-inch 2GB/32GB,Tablet,Xiaomi,Kids Edition 8-inch 2GB/32GB,7900,synthetic,Budget
+TB-022,Realme 10.4-inch 4GB/64GB,Tablet,Realme,10.4-inch 4GB/64GB,15100,synthetic,Mid
+TB-023,Realme 10.1-inch 4G Calling 4GB/64GB,Tablet,Realme,10.1-inch 4G Calling 4GB/64GB,14100,synthetic,Budget
+TB-024,OnePlus 11-inch 6GB/128GB,Tablet,OnePlus,11-inch 6GB/128GB,25400,synthetic,Mid
+TB-025,OnePlus 11-inch 8GB/256GB,Tablet,OnePlus,11-inch 8GB/256GB,37300,synthetic,Mid
+TB-026,OnePlus 11-inch OLED 8GB/128GB,Tablet,OnePlus,11-inch OLED 8GB/128GB,56600,synthetic,Premium
+TB-027,Amazon Entry 8-inch 3GB/32GB,Tablet,Amazon,Entry 8-inch 3GB/32GB,6800,synthetic,Budget
+TB-028,Nokia Entry 8-inch 3GB/32GB,Tablet,Nokia,Entry 8-inch 3GB/32GB,6500,synthetic,Budget
+TB-029,Nokia Kids Edition 8-inch 2GB/32GB,Tablet,Nokia,Kids Edition 8-inch 2GB/32GB,6800,synthetic,Budget
+TB-030,Honor 11-inch 6GB/128GB,Tablet,Honor,11-inch 6GB/128GB,21500,synthetic,Mid
+TB-031,Honor 11-inch OLED 8GB/128GB,Tablet,Honor,11-inch OLED 8GB/128GB,43800,synthetic,Premium
+TB-032,Huawei 11-inch 8GB/256GB,Tablet,Huawei,11-inch 8GB/256GB,41700,synthetic,Premium
+SB-001,Sony 2.0 Channel 60W Soundbar,Soundbar,Sony,2.0 Channel 60W Soundbar,3840,synthetic,Budget
+SB-002,Sony 2.1 Channel 120W with Subwoofer,Soundbar,Sony,2.1 Channel 120W with Subwoofer,13000,synthetic,Mid
+SB-003,Sony 2.1 Channel 300W Dolby Audio,Soundbar,Sony,2.1 Channel 300W Dolby Audio,17400,synthetic,Mid
+SB-004,Sony 3.1.2 Channel Dolby Atmos 400W,Soundbar,Sony,3.1.2 Channel Dolby Atmos 400W,38900,synthetic,Premium
+SB-005,Sony 5.1 Channel 500W Home Theatre,Soundbar,Sony,5.1 Channel 500W Home Theatre,28700,synthetic,Premium
+SB-006,JBL 2.0 Channel 60W Soundbar,Soundbar,JBL,2.0 Channel 60W Soundbar,5700,synthetic,Budget
+SB-007,JBL 2.1 Channel 120W with Subwoofer,Soundbar,JBL,2.1 Channel 120W with Subwoofer,13400,synthetic,Mid
+SB-008,JBL 2.1 Channel 300W Dolby Audio,Soundbar,JBL,2.1 Channel 300W Dolby Audio,25600,synthetic,Premium
+SB-009,JBL 3.1.2 Channel Dolby Atmos 400W,Soundbar,JBL,3.1.2 Channel Dolby Atmos 400W,49700,synthetic,Premium
+SB-010,JBL 5.1 Channel 500W Home Theatre,Soundbar,JBL,5.1 Channel 500W Home Theatre,38400,synthetic,Premium
+SB-011,boAt 2.0 Channel 60W Soundbar,Soundbar,boAt,2.0 Channel 60W Soundbar,4400,synthetic,Budget
+SB-012,boAt 2.1 Channel 120W with Subwoofer,Soundbar,boAt,2.1 Channel 120W with Subwoofer,10200,synthetic,Mid
+SB-013,boAt 2.1 Channel 300W Dolby Audio,Soundbar,boAt,2.1 Channel 300W Dolby Audio,20500,synthetic,Mid
+SB-014,Samsung 2.0 Channel 60W Soundbar,Soundbar,Samsung,2.0 Channel 60W Soundbar,4680,synthetic,Budget
+SB-015,Samsung 2.1 Channel 120W with Subwoofer,Soundbar,Samsung,2.1 Channel 120W with Subwoofer,12300,synthetic,Mid
+SB-016,Samsung 2.1 Channel 300W Dolby Audio,Soundbar,Samsung,2.1 Channel 300W Dolby Audio,16100,synthetic,Mid
+SB-017,Samsung 3.1.2 Channel Dolby Atmos 400W,Soundbar,Samsung,3.1.2 Channel Dolby Atmos 400W,54500,synthetic,Premium
+SB-018,Samsung 5.1 Channel 500W Home Theatre,Soundbar,Samsung,5.1 Channel 500W Home Theatre,33300,synthetic,Premium
+SB-019,LG 2.0 Channel 60W Soundbar,Soundbar,LG,2.0 Channel 60W Soundbar,5600,synthetic,Budget
+SB-020,LG 2.1 Channel 120W with Subwoofer,Soundbar,LG,2.1 Channel 120W with Subwoofer,7200,synthetic,Budget
+SB-021,LG 2.1 Channel 300W Dolby Audio,Soundbar,LG,2.1 Channel 300W Dolby Audio,17800,synthetic,Mid
+SB-022,LG 5.1 Channel 500W Home Theatre,Soundbar,LG,5.1 Channel 500W Home Theatre,49100,synthetic,Premium
+SB-023,Zebronics 2.1 Channel 120W with Subwoofer,Soundbar,Zebronics,2.1 Channel 120W with Subwoofer,13200,synthetic,Mid
+SB-024,Philips 2.0 Channel 60W Soundbar,Soundbar,Philips,2.0 Channel 60W Soundbar,6000,synthetic,Budget
+SB-025,Philips 2.1 Channel 120W with Subwoofer,Soundbar,Philips,2.1 Channel 120W with Subwoofer,9800,synthetic,Mid
+SB-026,Philips 2.1 Channel 300W Dolby Audio,Soundbar,Philips,2.1 Channel 300W Dolby Audio,23800,synthetic,Premium
+SB-027,Bose 3.1.2 Channel Dolby Atmos 400W,Soundbar,Bose,3.1.2 Channel Dolby Atmos 400W,66700,synthetic,Premium
+SB-028,Bose 5.1 Channel 500W Home Theatre,Soundbar,Bose,5.1 Channel 500W Home Theatre,40800,synthetic,Premium
+SB-029,Mi 2.0 Channel 60W Soundbar,Soundbar,Mi,2.0 Channel 60W Soundbar,4160,synthetic,Budget
+SB-030,Mi 2.1 Channel 120W with Subwoofer,Soundbar,Mi,2.1 Channel 120W with Subwoofer,7000,synthetic,Budget
+SB-031,Realme 2.0 Channel 60W Soundbar,Soundbar,Realme,2.0 Channel 60W Soundbar,4850,synthetic,Budget
+SB-032,Realme 2.1 Channel 120W with Subwoofer,Soundbar,Realme,2.1 Channel 120W with Subwoofer,8700,synthetic,Budget

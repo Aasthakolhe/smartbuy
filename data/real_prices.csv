@@ -1,0 +1,78 @@
+product,category,brand,retailer,date_checked,current_price,lowest_price,highest_price,mrp,rating,source
+Samsung Galaxy A36 5G (128GB),Smartphone,Samsung,Flipkart,2026-10-18,24999,23891,35999,39499,4.4,PriceBefore
+Apple iPhone 17 (256GB),Smartphone,Apple,Flipkart,2026-10-18,86999,84999,99900,99900,4.6,PriceBefore
+OnePlus Nord CE6 (8GB+128GB),Smartphone,OnePlus,Amazon,2026-10-18,35999,29998,37999,40999,4.3,PriceBefore
+Motorola G57 Power (8GB+128GB),Smartphone,Motorola,Amazon,2026-10-18,21299,17999,21299,21999,3.8,PriceBefore
+HMD Vibe2 5G (4GB+128GB),Smartphone,HMD,Flipkart,2026-10-18,12499,11999,19999,19999,4.4,PriceBefore
+Nothing Phone (4b) (8GB+256GB),Smartphone,Nothing,Amazon,2026-10-18,34497,34388,39783,59999,3.8,PriceBefore
+vivo T5 Lite 44W 5G (128GB),Smartphone,Vivo,Flipkart,2026-10-18,19999,19999,20499,33999,4.3,PriceBefore
+Samsung Galaxy S25 FE 5G (128GB),Smartphone,Samsung,Flipkart,2026-10-18,44999,44999,89999,89999,4.5,PriceBefore
+Xiaomi 15 (12GB+256GB),Smartphone,Xiaomi,Mi Store,2026-10-18,59999,54999,64999,64999,4.5,Mi Store
+Realme GT 7 Pro (12GB+256GB),Smartphone,Realme,Flipkart,2026-10-18,53999,49999,62999,64999,4.3,Flipkart
+Redmi Note 14 Pro+ 5G (8GB+256GB),Smartphone,Redmi,Amazon,2026-10-18,27999,24999,32999,35999,4.4,Amazon
+iQOO Z10 Turbo (8GB+256GB),Smartphone,iQOO,Flipkart,2026-10-18,28999,25999,30999,32999,4.3,Flipkart
+Poco F7 (12GB+256GB),Smartphone,Poco,Flipkart,2026-10-18,29999,26999,34999,34999,4.4,Flipkart
+HP Victus 16 Gaming (16GB+512GB SSD RTX 4060),Laptop,HP,Amazon,2026-10-18,75999,68999,89999,94990,4.3,Amazon
+Dell Inspiron 15 (16GB+512GB SSD),Laptop,Dell,Flipkart,2026-10-18,52999,48999,61999,64990,4.2,Flipkart
+Lenovo IdeaPad Slim 5 (16GB+512GB SSD),Laptop,Lenovo,Amazon,2026-10-18,49999,45999,58999,60990,4.4,Amazon
+ASUS VivoBook 16X (16GB+512GB SSD),Laptop,ASUS,Flipkart,2026-10-18,44999,41999,53999,55990,4.3,Flipkart
+Acer Aspire Lite (8GB+512GB SSD),Laptop,Acer,Amazon,2026-10-18,29999,26499,35999,37990,4.1,Amazon
+Apple MacBook Air M3 (8GB+256GB),Laptop,Apple,Apple Store,2026-10-18,114900,109900,124900,124900,4.8,Apple Store
+MSI Thin GF63 Gaming (16GB+512GB RTX 4050),Laptop,MSI,Amazon,2026-10-18,67999,61999,76999,79990,4.2,Amazon
+Samsung Galaxy Book4 Pro (16GB+512GB),Laptop,Samsung,Samsung,2026-10-18,109990,99990,124990,124990,4.5,Samsung
+Lenovo Legion 5 Gaming (16GB+1TB RTX 4060),Laptop,Lenovo,Flipkart,2026-10-18,84999,76999,94999,99990,4.6,Flipkart
+Samsung 43-inch Crystal 4K Smart TV (2025),TV,Samsung,Amazon,2026-10-18,32999,28999,46999,57900,4.4,Amazon
+LG 55-inch OLED evo C5 4K Smart TV,TV,LG,Flipkart,2026-10-18,119999,109999,149999,249900,4.7,Flipkart
+Sony Bravia 43-inch 4K Google TV (X74L),TV,Sony,Amazon,2026-10-18,42999,38999,59999,74900,4.5,Amazon
+Mi 40-inch Full HD Smart TV,TV,Mi,Flipkart,2026-10-18,17999,14999,23999,27999,4.1,Flipkart
+TCL 55-inch QLED 4K Google TV,TV,TCL,Amazon,2026-10-18,39999,34999,52999,64999,4.2,Amazon
+OnePlus 55-inch Q2 4K TV,TV,OnePlus,Amazon,2026-10-18,44999,39999,57999,59999,4.3,Amazon
+Vu 32-inch Full HD Smart TV,TV,Vu,Flipkart,2026-10-18,9999,8999,14999,15999,4.0,Flipkart
+Hisense 65-inch 4K QLED TV,TV,Hisense,Amazon,2026-10-18,59999,52999,84999,99999,4.2,Amazon
+Voltas 1.5 Ton 5 Star Inverter Split AC (2026),AC,Voltas,Amazon,2026-10-18,42999,38999,48999,56990,4.3,Amazon
+LG 1.5 Ton 5 Star Dual Inverter AC (2026),AC,LG,Flipkart,2026-10-18,44999,39999,52999,59990,4.5,Flipkart
+Daikin 1.5 Ton 5 Star Inverter Split AC,AC,Daikin,Amazon,2026-10-18,46999,41999,54999,62990,4.4,Amazon
+Samsung 1.5 Ton 5 Star Wind-Free AC,AC,Samsung,Flipkart,2026-10-18,48999,43999,57999,69990,4.3,Flipkart
+Carrier 1.5 Ton 3 Star Inverter AC,AC,Carrier,Amazon,2026-10-18,34999,31999,39999,46990,4.1,Amazon
+Blue Star 1 Ton 5 Star Inverter AC,AC,Blue Star,Flipkart,2026-10-18,37999,33999,44999,52990,4.2,Flipkart
+Lloyd 2 Ton 3 Star Split AC,AC,Lloyd,Amazon,2026-10-18,46999,41999,54999,62990,4.0,Amazon
+Samsung 253L Double Door Inverter Refrigerator,Refrigerator,Samsung,Amazon,2026-10-18,28999,24999,34999,42990,4.4,Amazon
+LG 260L Double Door Inverter Refrigerator,Refrigerator,LG,Flipkart,2026-10-18,31999,27999,38999,44990,4.5,Flipkart
+Whirlpool 340L Frost Free Refrigerator,Refrigerator,Whirlpool,Amazon,2026-10-18,34999,29999,41999,49990,4.2,Amazon
+Haier 195L Single Door Refrigerator,Refrigerator,Haier,Flipkart,2026-10-18,14999,12999,18999,22990,4.1,Flipkart
+Godrej 190L Single Door Refrigerator,Refrigerator,Godrej,Amazon,2026-10-18,13999,11999,17999,21990,4.0,Amazon
+Bosch 580L Side-by-Side Refrigerator,Refrigerator,Bosch,Amazon,2026-10-18,94999,84999,114999,149990,4.6,Amazon
+Samsung 8kg Fully Automatic Top Load WM,Washing Machine,Samsung,Amazon,2026-10-18,24999,21999,29999,37990,4.3,Amazon
+LG 8kg Front Load Inverter WM,Washing Machine,LG,Flipkart,2026-10-18,34999,29999,42999,57990,4.6,Flipkart
+IFB 7kg Front Load WM,Washing Machine,IFB,Amazon,2026-10-18,29999,26999,35999,44990,4.4,Amazon
+Whirlpool 7kg Fully Auto Top Load WM,Washing Machine,Whirlpool,Flipkart,2026-10-18,18999,16999,22999,31990,4.2,Flipkart
+Bosch 8kg Front Load with Steam,Washing Machine,Bosch,Amazon,2026-10-18,41999,36999,49999,64990,4.5,Amazon
+Sony WH-1000XM6 ANC Headphones,Headphones,Sony,Amazon,2026-10-18,34999,27999,39999,39990,4.7,Amazon
+boAt Airdopes 500 ANC TWS,Headphones,boAt,Amazon,2026-10-18,2999,1999,3999,4990,4.2,Amazon
+JBL Tune 770NC ANC Headphones,Headphones,JBL,Flipkart,2026-10-18,7999,5999,9999,11990,4.3,Flipkart
+Bose QuietComfort 45,Headphones,Bose,Amazon,2026-10-18,24999,19999,29999,34990,4.6,Amazon
+Samsung Galaxy Buds3 Pro,Headphones,Samsung,Samsung,2026-10-18,14999,12999,17999,19999,4.4,Samsung
+Apple AirPods Pro 2,Headphones,Apple,Amazon,2026-10-18,24900,19900,27900,29900,4.7,Amazon
+Noise Buds VS403 TWS,Headphones,Noise,Flipkart,2026-10-18,1499,999,2499,3499,4.0,Flipkart
+Apple Watch Ultra 2 (49mm),Smartwatch,Apple,Apple Store,2026-10-18,89900,79900,99900,99900,4.8,Apple Store
+Samsung Galaxy Watch Ultra,Smartwatch,Samsung,Amazon,2026-10-18,59999,49999,69999,69999,4.5,Amazon
+Garmin Fenix 8 Solar,Smartwatch,Garmin,Amazon,2026-10-18,89990,79990,99990,109990,4.7,Amazon
+Noise ColorFit Pro 6,Smartwatch,Noise,Flipkart,2026-10-18,2499,1999,3499,4499,4.1,Flipkart
+boAt Wave Call 3,Smartwatch,boAt,Amazon,2026-10-18,1799,1299,2799,3499,4.0,Amazon
+Fire-Boltt Phoenix Pro,Smartwatch,Fire-Boltt,Flipkart,2026-10-18,1999,1499,2999,3999,3.9,Flipkart
+Amazfit GTR 4,Smartwatch,Amazfit,Amazon,2026-10-18,12999,9999,15999,17999,4.3,Amazon
+Google Pixel Watch 3 (45mm),Smartwatch,Google,Flipkart,2026-10-18,34999,29999,39999,39999,4.4,Flipkart
+Apple iPad Air M3 (11-inch 128GB WiFi),Tablet,Apple,Amazon,2026-10-18,69900,64900,79900,79900,4.7,Amazon
+Samsung Galaxy Tab S10 FE (128GB WiFi),Tablet,Samsung,Flipkart,2026-10-18,34999,29999,42999,44999,4.4,Flipkart
+Lenovo Tab M11 (4GB+128GB),Tablet,Lenovo,Amazon,2026-10-18,16999,13999,21999,24999,4.2,Amazon
+OnePlus Pad 2 (8GB+256GB WiFi),Tablet,OnePlus,Flipkart,2026-10-18,39999,34999,47999,49999,4.5,Flipkart
+Xiaomi Pad 7 (8GB+256GB),Tablet,Xiaomi,Mi Store,2026-10-18,29999,24999,35999,39999,4.3,Mi Store
+Amazon Fire HD 10 (3GB+32GB),Tablet,Amazon,Amazon,2026-10-18,14999,11999,18999,19999,4.1,Amazon
+Realme Pad 2 (4GB+128GB 4G),Tablet,Realme,Flipkart,2026-10-18,17999,14999,22999,24999,4.0,Flipkart
+Sony HT-S400 2.1 Soundbar (330W Dolby),Soundbar,Sony,Amazon,2026-10-18,22999,18999,27999,29990,4.5,Amazon
+JBL Bar 2.1 Deep Bass Soundbar,Soundbar,JBL,Flipkart,2026-10-18,15999,12999,19999,21990,4.3,Flipkart
+Samsung HW-Q600C 3.1.2 Dolby Atmos Soundbar,Soundbar,Samsung,Amazon,2026-10-18,29999,24999,37999,44990,4.4,Amazon
+boAt Aavante Bar 1700 Soundbar,Soundbar,boAt,Amazon,2026-10-18,4999,3499,6999,8990,4.0,Amazon
+Bose Smart Soundbar 600,Soundbar,Bose,Amazon,2026-10-18,56999,49999,65999,71990,4.6,Amazon
+LG DS95QR 9.1.5 Soundbar,Soundbar,LG,Flipkart,2026-10-18,84999,74999,99999,129990,4.7,Flipkart
+Zebronics Juke Bar 9500 5.1 Soundbar,Soundbar,Zebronics,Amazon,2026-10-18,6999,4999,9999,12990,3.9,Amazon

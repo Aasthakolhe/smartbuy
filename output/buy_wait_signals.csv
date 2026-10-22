@@ -1,0 +1,121 @@
+category,month,month_name,signal,message,best_wait_month,expected_saving_pct
+AC,1,Jan,GREEN,Good time to buy - price is near its annual low,Feb,0.1
+AC,2,Feb,GREEN,Good time to buy - price is near its annual low,Mar,0.0
+AC,3,Mar,YELLOW,Fair price - no big drop expected soon,Sep,0.0
+AC,4,Apr,YELLOW,Wait - cheaper around Oct,Oct,9.0
+AC,5,May,RED,"Don't buy now - near annual peak, wait for Oct",Oct,16.4
+AC,6,Jun,RED,"Don't buy now - near annual peak, wait for Oct",Oct,14.5
+AC,7,Jul,RED,"Don't buy now - near annual peak, wait for Jan",Jan,16.3
+AC,8,Aug,YELLOW,Wait - cheaper around Feb,Feb,12.9
+AC,9,Sep,YELLOW,Wait - cheaper around Feb,Feb,10.1
+AC,10,Oct,GREEN,Good price now - waiting till Feb could save ~7% more,Feb,7.0
+AC,11,Nov,YELLOW,Wait - cheaper around Feb,Feb,11.0
+AC,12,Dec,YELLOW,Wait - cheaper around Feb,Feb,14.2
+Headphones,1,Jan,YELLOW,Wait - cheaper around Jul,Jul,6.8
+Headphones,2,Feb,RED,"Don't buy now - near annual peak, wait for Jul",Jul,6.9
+Headphones,3,Mar,YELLOW,Wait - cheaper around Jul,Jul,6.3
+Headphones,4,Apr,RED,"Don't buy now - near annual peak, wait for Oct",Oct,18.5
+Headphones,5,May,RED,"Don't buy now - near annual peak, wait for Oct",Oct,18.0
+Headphones,6,Jun,YELLOW,Wait - cheaper around Oct,Oct,17.0
+Headphones,7,Jul,GREEN,Good price now - waiting till Oct could save ~12% more,Oct,11.9
+Headphones,8,Aug,YELLOW,Wait - cheaper around Oct,Oct,15.2
+Headphones,9,Sep,GREEN,Good price now - waiting till Oct could save ~12% more,Oct,11.9
+Headphones,10,Oct,GREEN,Good time to buy - price is near its annual low,Nov,0.0
+Headphones,11,Nov,GREEN,Good time to buy - price is near its annual low,Dec,0.0
+Headphones,12,Dec,YELLOW,Fair price - no big drop expected soon,Jun,0.0
+Laptop,1,Jan,YELLOW,Wait - cheaper around Apr,Apr,4.2
+Laptop,2,Feb,YELLOW,Wait - cheaper around Apr,Apr,4.3
+Laptop,3,Mar,YELLOW,Wait - cheaper around Sep,Sep,4.7
+Laptop,4,Apr,YELLOW,Wait - cheaper around Oct,Oct,12.0
+Laptop,5,May,YELLOW,Wait - cheaper around Oct,Oct,13.3
+Laptop,6,Jun,RED,"Don't buy now - near annual peak, wait for Oct",Oct,17.4
+Laptop,7,Jul,RED,"Don't buy now - near annual peak, wait for Oct",Oct,18.8
+Laptop,8,Aug,RED,"Don't buy now - near annual peak, wait for Oct",Oct,17.3
+Laptop,9,Sep,GREEN,Good price now - waiting till Oct could save ~10% more,Oct,9.5
+Laptop,10,Oct,GREEN,Good time to buy - price is near its annual low,Nov,0.0
+Laptop,11,Nov,GREEN,Good time to buy - price is near its annual low,Dec,0.0
+Laptop,12,Dec,YELLOW,Fair price - no big drop expected soon,Apr,0.0
+Refrigerator,1,Jan,YELLOW,Wait - cheaper around Feb,Feb,4.2
+Refrigerator,2,Feb,YELLOW,Fair price - no big drop expected soon,Aug,0.0
+Refrigerator,3,Mar,YELLOW,Fair price - no big drop expected soon,Sep,4.0
+Refrigerator,4,Apr,RED,"Don't buy now - near annual peak, wait for Oct",Oct,13.8
+Refrigerator,5,May,RED,"Don't buy now - near annual peak, wait for Oct",Oct,18.5
+Refrigerator,6,Jun,RED,"Don't buy now - near annual peak, wait for Oct",Oct,15.5
+Refrigerator,7,Jul,YELLOW,Wait - cheaper around Oct,Oct,11.9
+Refrigerator,8,Aug,YELLOW,Wait - cheaper around Oct,Oct,10.1
+Refrigerator,9,Sep,GREEN,Good price now - waiting till Oct could save ~7% more,Oct,7.2
+Refrigerator,10,Oct,GREEN,Good time to buy - price is near its annual low,Nov,0.0
+Refrigerator,11,Nov,GREEN,Good time to buy - price is near its annual low,Feb,0.0
+Refrigerator,12,Dec,YELLOW,Fair price - no big drop expected soon,Feb,2.0
+Smartphone,1,Jan,RED,"Don't buy now - near annual peak, wait for Mar",Mar,10.1
+Smartphone,2,Feb,GREEN,Good time to buy - price is near its annual low,Mar,2.6
+Smartphone,3,Mar,GREEN,Good time to buy - price is near its annual low,Apr,0.0
+Smartphone,4,Apr,YELLOW,Fair price - no big drop expected soon,Oct,3.0
+Smartphone,5,May,YELLOW,Wait - cheaper around Oct,Oct,4.5
+Smartphone,6,Jun,YELLOW,Wait - cheaper around Oct,Oct,6.1
+Smartphone,7,Jul,YELLOW,Wait - cheaper around Oct,Oct,7.8
+Smartphone,8,Aug,RED,"Don't buy now - near annual peak, wait for Oct",Oct,11.7
+Smartphone,9,Sep,RED,"Don't buy now - near annual peak, wait for Mar",Mar,17.0
+Smartphone,10,Oct,GREEN,Good time to buy - price is near its annual low,Mar,1.0
+Smartphone,11,Nov,YELLOW,Wait - cheaper around Mar,Mar,4.7
+Smartphone,12,Dec,YELLOW,Wait - cheaper around Mar,Mar,7.2
+Smartwatch,1,Jan,YELLOW,Fair price - no big drop expected soon,Jul,1.5
+Smartwatch,2,Feb,YELLOW,Wait - cheaper around Jul,Jul,5.4
+Smartwatch,3,Mar,RED,"Don't buy now - near annual peak, wait for Sep",Sep,6.8
+Smartwatch,4,Apr,RED,"Don't buy now - near annual peak, wait for Oct",Oct,17.9
+Smartwatch,5,May,RED,"Don't buy now - near annual peak, wait for Oct",Oct,17.6
+Smartwatch,6,Jun,YELLOW,Wait - cheaper around Oct,Oct,16.7
+Smartwatch,7,Jul,YELLOW,Wait - cheaper around Oct,Oct,12.0
+Smartwatch,8,Aug,YELLOW,Wait - cheaper around Oct,Oct,13.7
+Smartwatch,9,Sep,GREEN,Good price now - waiting till Oct could save ~11% more,Oct,10.9
+Smartwatch,10,Oct,GREEN,Good time to buy - price is near its annual low,Nov,0.0
+Smartwatch,11,Nov,GREEN,Good time to buy - price is near its annual low,Jan,0.0
+Smartwatch,12,Dec,YELLOW,Fair price - no big drop expected soon,Jan,1.3
+Soundbar,1,Jan,RED,"Don't buy now - near annual peak, wait for May",May,6.2
+Soundbar,2,Feb,RED,"Don't buy now - near annual peak, wait for May",May,7.4
+Soundbar,3,Mar,YELLOW,Wait - cheaper around Sep,Sep,4.1
+Soundbar,4,Apr,YELLOW,Wait - cheaper around Oct,Oct,10.9
+Soundbar,5,May,YELLOW,Wait - cheaper around Oct,Oct,10.0
+Soundbar,6,Jun,YELLOW,Wait - cheaper around Oct,Oct,13.1
+Soundbar,7,Jul,YELLOW,Wait - cheaper around Oct,Oct,14.1
+Soundbar,8,Aug,RED,"Don't buy now - near annual peak, wait for Oct",Oct,14.9
+Soundbar,9,Sep,GREEN,Good price now - waiting till Oct could save ~9% more,Oct,9.0
+Soundbar,10,Oct,GREEN,Good time to buy - price is near its annual low,Nov,0.0
+Soundbar,11,Nov,GREEN,Good time to buy - price is near its annual low,May,0.0
+Soundbar,12,Dec,YELLOW,Wait - cheaper around May,May,5.3
+TV,1,Jan,RED,"Don't buy now - near annual peak, wait for May",May,14.3
+TV,2,Feb,RED,"Don't buy now - near annual peak, wait for May",May,13.2
+TV,3,Mar,YELLOW,Wait - cheaper around May,May,5.5
+TV,4,Apr,YELLOW,Wait - cheaper around Oct,Oct,12.2
+TV,5,May,GREEN,Good price now - waiting till Oct could save ~10% more,Oct,9.7
+TV,6,Jun,YELLOW,Wait - cheaper around Oct,Oct,14.7
+TV,7,Jul,YELLOW,Wait - cheaper around Oct,Oct,17.0
+TV,8,Aug,RED,"Don't buy now - near annual peak, wait for Oct",Oct,18.3
+TV,9,Sep,YELLOW,Wait - cheaper around Oct,Oct,10.8
+TV,10,Oct,GREEN,Good time to buy - price is near its annual low,Nov,0.0
+TV,11,Nov,GREEN,Good time to buy - price is near its annual low,May,0.0
+TV,12,Dec,YELLOW,Wait - cheaper around May,May,9.3
+Tablet,1,Jan,YELLOW,Fair price - no big drop expected soon,Apr,2.2
+Tablet,2,Feb,YELLOW,Fair price - no big drop expected soon,Apr,3.0
+Tablet,3,Mar,YELLOW,Wait - cheaper around Sep,Sep,4.5
+Tablet,4,Apr,YELLOW,Wait - cheaper around Oct,Oct,11.8
+Tablet,5,May,YELLOW,Wait - cheaper around Oct,Oct,13.6
+Tablet,6,Jun,RED,"Don't buy now - near annual peak, wait for Oct",Oct,16.4
+Tablet,7,Jul,RED,"Don't buy now - near annual peak, wait for Oct",Oct,17.6
+Tablet,8,Aug,RED,"Don't buy now - near annual peak, wait for Oct",Oct,15.8
+Tablet,9,Sep,GREEN,Good price now - waiting till Oct could save ~9% more,Oct,9.4
+Tablet,10,Oct,GREEN,Good time to buy - price is near its annual low,Nov,0.0
+Tablet,11,Nov,GREEN,Good time to buy - price is near its annual low,Dec,0.0
+Tablet,12,Dec,YELLOW,Fair price - no big drop expected soon,Apr,0.0
+Washing Machine,1,Jan,YELLOW,Fair price - no big drop expected soon,May,0.9
+Washing Machine,2,Feb,RED,"Don't buy now - near annual peak, wait for May",May,2.6
+Washing Machine,3,Mar,YELLOW,Wait - cheaper around Sep,Sep,4.4
+Washing Machine,4,Apr,YELLOW,Wait - cheaper around Oct,Oct,11.3
+Washing Machine,5,May,YELLOW,Wait - cheaper around Oct,Oct,10.3
+Washing Machine,6,Jun,YELLOW,Wait - cheaper around Oct,Oct,12.3
+Washing Machine,7,Jul,RED,"Don't buy now - near annual peak, wait for Oct",Oct,14.4
+Washing Machine,8,Aug,RED,"Don't buy now - near annual peak, wait for Oct",Oct,13.6
+Washing Machine,9,Sep,GREEN,Good price now - waiting till Oct could save ~8% more,Oct,7.9
+Washing Machine,10,Oct,GREEN,Good time to buy - price is near its annual low,Nov,0.0
+Washing Machine,11,Nov,GREEN,Good time to buy - price is near its annual low,Dec,0.0
+Washing Machine,12,Dec,YELLOW,Fair price - no big drop expected soon,May,0.0
